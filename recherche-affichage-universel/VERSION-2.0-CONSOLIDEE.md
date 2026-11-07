@@ -1373,3 +1373,575 @@ Ne pas attribuer à un équipement les fonctions fournies par un autre.
 
 ---
 
+15. CAS PRIORITAIRE — PS4 SLIM ACTUELLEMENT BLOQUÉE
+
+Situation initiale
+
+Je possède une PS4 Slim.
+
+- Deux ports USB sont présents.
+- Un seul semble encore fonctionner.
+- Le fonctionnement éventuellement limité à la recharge n'est pas confirmé.
+- Aucune DualShock 4 n'est actuellement associée.
+- Je possède une DualShock 4.
+- Je possède une DualSense.
+- Je possède des claviers et souris USB/Bluetooth/RF.
+- Je ne dispose pas actuellement d'un câble Micro-USB de données approprié.
+- Remote Play est désactivé.
+- Aucun téléphone n'est associé avec Second Screen.
+
+Je souhaite conserver intégralement :
+
+- Firmware actuel.
+- Jeux.
+- Sauvegardes.
+- Données.
+- Paramètres autant que possible.
+
+Solutions à étudier
+
+- HDMI-CEC.
+- Télécommande de télévision.
+- Télécommande de moniteur.
+- USB-CEC.
+- Pulse-Eight et solutions comparables.
+- Contrôleurs programmables.
+- Switches compatibles CEC.
+- Adaptateurs de commandes.
+- Navigation clavier.
+- Bluetooth.
+- Association DualShock 4 sans câble.
+- Utilisation du menu Bluetooth.
+- Émulation de commandes autorisée.
+- Diagnostic USB.
+- Réparation ciblée des ports.
+
+Vérifications spécifiques
+
+Déterminer :
+
+1. Si le CEC est déjà activé.
+2. S'il peut fonctionner depuis l'état actuel.
+3. Si une commande permet d'allumer la console.
+4. Si la navigation initiale fonctionne.
+5. Si l'écran « Appuyez sur PS » peut être franchi.
+6. Si la connexion utilisateur est possible.
+7. Si le menu Bluetooth est accessible.
+8. Si une DualShock 4 peut être associée sans USB.
+9. Si une véritable commande PS peut être transmise.
+10. Si des adaptateurs actuels reproduisent les essais historiques.
+11. Si le firmware actuel change ces possibilités.
+12. Si les données peuvent être préservées.
+
+Distinction essentielle
+
+Une télécommande CEC capable de naviguer dans une PS4 n'est pas nécessairement capable d'envoyer la touche PS.
+
+Une navigation CEC fonctionnelle peut cependant permettre certaines procédures alternatives d'association Bluetooth, selon la configuration de la console.
+
+Rechercher des démonstrations réelles et reproductibles plutôt que des affirmations théoriques.
+
+Solutions prioritaires de préservation
+
+Éviter en priorité :
+
+- Réinitialisation.
+- Réinstallation du firmware.
+- Formatage.
+- Effacement des données.
+- Mise à jour non nécessaire.
+- Manipulations dangereuses.
+
+Privilégier :
+
+- Diagnostic non destructif.
+- Câble Micro-USB avec données.
+- Vérification des ports.
+- Techniques CEC historiquement démontrées.
+- Réparation matérielle ciblée lorsque nécessaire.
+
+Ne pas supposer que Reflex ou le polling 8K peut résoudre l'association initiale.
+
+---
+
+16. RÉSULTATS ATTENDUS
+
+Produire :
+
+1. État des lieux technique.
+2. Catalogue de modèles couvrant toutes les générations pertinentes.
+3. Tableau comparatif détaillé.
+4. Matrices par appareil/port/fonction.
+5. Classements spécialisés.
+6. Systèmes autonomes et modulaires.
+7. Prix TTC et disponibilité en France.
+8. Prix d'occasion et importations.
+9. Limitations documentées.
+10. Scores pondérés justifiés.
+11. Solutions PS4 Slim.
+12. Vérification du minimum de deux USB-A USB 2.0.
+13. Inventaire de tous les ports USB.
+14. Analyse USB-B upstream.
+15. Contrôle logiciel et matériel.
+16. Gestion des profils et mémoires.
+17. HUD et télémétrie.
+18. Analyse des normes.
+19. Fonctionnalités simultanées.
+20. Communication bidirectionnelle.
+21. Couverture réelle par interface.
+22. Incompatibilités confirmées.
+23. Candidats indéterminés.
+24. FreeSync et G-SYNC.
+25. Reflex et Reflex Analyzer.
+26. Périphériques 2K/4K/8K.
+27. Dongles partagés et séparés.
+28. Stabilité HID via hub et KVM.
+29. Réseau et Bluetooth.
+30. Audio et S/PDIF.
+31. Ambilight et équivalents.
+32. Mesures de latence.
+33. Comparaisons historiques.
+34. Différences firmware/révisions.
+35. Coût complet des architectures.
+36. Essais encore nécessaires.
+
+Les résultats doivent permettre de comparer les appareils sans devoir ouvrir systématiquement chaque fiche constructeur.
+
+---
+
+17. EXIGENCES DE RIGUEUR
+
+Ne jamais affirmer « compatible à 100 % » sans définir les fonctionnalités pertinentes et démontrer leur fonctionnement.
+
+Distinguer :
+
+- Fonctions applicables.
+- Fonctions annoncées.
+- Fonctions implémentées.
+- Fonctions testées.
+- Fonctions simultanées.
+- Fonctions accessibles par accessoires.
+- Fonctions dépendantes d'un pilote.
+- Restrictions des sources.
+- Incompatibilités.
+- Inconnues.
+
+Quatre statuts obligatoires
+
+Conforme confirmé
+
+Les exigences concernées sont satisfaites avec preuves suffisantes.
+
+Non conforme confirmé
+
+Une incompatibilité est démontrée.
+
+Conformité conditionnelle
+
+La fonction nécessite des conditions identifiées et documentées.
+
+Conformité indéterminée
+
+Les informations restent insuffisantes ou contradictoires.
+
+Ne jamais transformer l'absence de documentation en incompatibilité.
+
+Rigueur USB actualisée
+
+Ne pas considérer USB 2.0 comme intrinsèquement incompatible avec les périphériques à 8 000 Hz.
+
+Distinguer USB 2.0 High-Speed et Full-Speed.
+
+Ne pas présumer qu'un hub USB 2.0 conserve automatiquement 8K.
+
+Ne pas présumer qu'un hub USB 3.x conserve automatiquement 8K.
+
+La présence de deux USB-A de données USB 2.0 minimum satisfait l'exigence quantitative de connectique.
+
+Les performances supplémentaires des ports USB 3.x/USB4/Thunderbolt doivent être valorisées séparément.
+
+Les ports USB 1.x uniquement restent non conformes.
+
+Rigueur sur les latences
+
+Ne pas confondre :
+
+- FPS.
+- Refresh rate.
+- Polling rate.
+- Débit USB.
+- Fréquence radio.
+- Fréquence audio.
+- RTT.
+- Latence réseau.
+- Latence PC.
+- Latence périphérique.
+- Latence écran.
+- Latence de bout en bout.
+
+Les comparaisons de latence doivent reposer sur des protocoles compatibles.
+
+Ne pas comparer directement des chiffres issus de méthodes différentes sans préciser leurs conditions.
+
+---
+
+18. NOTATION ET PONDÉRATION PERSONNALISÉE
+
+Conserver exactement les six pondérations suivantes :
+
+Critère| Pondération
+Compatibilité consoles et appareils| 25 %
+Qualité d'image et gaming| 20 %
+Connectique et fonctionnalités USB| 20 %
+Contrôle HDMI-CEC et KVM| 20 %
+Audio, personnalisation et ergonomie| 10 %
+Prix, fiabilité et évolutivité| 5 %
+Total| 100 %
+
+Attribuer une note de 0 à 10 par catégorie.
+
+Calculer le score sur 100.
+
+Les notes doivent être justifiées par des critères reproductibles.
+
+Bonus secondaires
+
+- FreeSync Premium Pro.
+- G-SYNC natif.
+- G-SYNC Ultimate.
+- G-SYNC Pulsar.
+- Ethernet.
+- Wi-Fi.
+- Bluetooth.
+- S/PDIF.
+- Ambilight/équivalent.
+
+Bonus importants
+
+- Reflex Analyzer opérationnel.
+- Mesures de latence reproductibles.
+- Réduction de latence démontrée.
+- Périphériques 2K/4K/8K réellement fonctionnels.
+- Conservation du polling via hub/KVM.
+- Faible jitter.
+- Faible latence.
+- Absence de pertes d'événements.
+
+Les bonus importants doivent avoir davantage d'importance que les bonus secondaires à l'intérieur des catégories correspondantes.
+
+Les pondérations générales ne changent pas.
+
+Nouvelle valorisation USB
+
+USB 2.0 minimum constitue le niveau obligatoire de conformité.
+
+USB 3.x, USB4 et Thunderbolt apportent des points supplémentaires selon :
+
+- Débit réel.
+- Latence.
+- Fonctions vidéo.
+- Recharge.
+- Polyvalence.
+- Gestion des hôtes.
+- Nombre de périphériques.
+- Fiabilité.
+- Stabilité HID.
+- Évolutivité.
+
+Un équipement USB 2.0 performant ne doit pas être automatiquement moins bien classé pour les périphériques HID qu'un équipement USB 3.x moins stable.
+
+Inversement, USB 3.x doit rester valorisé lorsqu'il permet des transferts rapides, du stockage externe, des périphériques exigeants ou davantage de fonctions simultanées.
+
+Gestion de l'incertitude
+
+Ne pas attribuer de points pour une fonction simplement supposée.
+
+Ne pas retirer arbitrairement des points pour une fonction non documentée.
+
+Signaler les inconnues.
+
+Si une note ne peut pas être calculée sérieusement, indiquer les sous-scores connus et les éléments non évaluables.
+
+Ne pas masquer une incompatibilité bloquante par une bonne moyenne.
+
+Évaluation complémentaire
+
+Indiquer :
+
+- Scores par famille d'appareils.
+- Fonctions confirmées.
+- Fonctions conditionnelles.
+- Fonctions non documentées.
+- Fonctions impossibles.
+- Nombre de ports USB.
+- Débits.
+- Fonctionnalités simultanées.
+- Capacités CEC.
+- Capacités KVM.
+- Mesures HID.
+- Certifications.
+- Réseau.
+- Audio.
+- Éclairage.
+- Coût.
+- Fiabilité.
+- Niveau de confiance.
+
+---
+
+19. DEUX CLASSEMENTS GÉNÉRAUX INDÉPENDANTS
+
+Classement A — Meilleur écran tout-en-un
+
+Rechercher les écrans PC, téléviseurs et Smart Monitors qui intègrent nativement le maximum de fonctionnalités.
+
+Ne comptabiliser que les fonctions directement disponibles sur l'appareil.
+
+Les câbles standards, télécommandes fournies et accessoires indispensables à son fonctionnement normal sont autorisés.
+
+Ne pas attribuer à l'écran les fonctions d'un dock ou d'un accessoire externe.
+
+Exigences USB du classement A
+
+- Au moins deux USB-A de données.
+- Chaque USB-A obligatoire au minimum USB 2.0.
+- Tous les ports USB de données accessibles au minimum USB 2.0.
+- USB 3.x/USB4/Thunderbolt valorisés.
+- USB-C recharge seule autorisés et signalés.
+- Aucun port USB de données uniquement USB 1.x.
+
+Fonctions à évaluer
+
+- Compatibilité consoles.
+- Gaming PC.
+- HDR.
+- VRR.
+- Input lag.
+- HDMI.
+- DisplayPort.
+- USB.
+- CEC.
+- KVM.
+- PiP/PbP.
+- Audio.
+- Microphone.
+- S/PDIF.
+- Réseau.
+- Wi-Fi.
+- Bluetooth.
+- Ambilight.
+- OSD.
+- HUD.
+- Télémétrie.
+- Reflex Analyzer.
+- Polling HID.
+- Contrôle logiciel.
+- Firmware.
+- Fiabilité.
+- Prix.
+
+Identifier le meilleur écran global, mais aussi les meilleurs pour consoles, PC et usage hybride.
+
+Classement B — Meilleur système complet modulaire
+
+Construire les meilleures combinaisons d'équipements.
+
+Les composants peuvent comprendre :
+
+- Moniteur.
+- Téléviseur.
+- Hub.
+- Dock.
+- KVM.
+- Switch.
+- Matrice.
+- Processeur vidéo.
+- Contrôleur CEC.
+- Adaptateur USB-CEC.
+- Extracteur audio.
+- DAC.
+- Télécommande.
+- Interface réseau.
+- Système programmable.
+- Matériel de mesure.
+- Dongles.
+- Éclairage ambiant.
+
+Exigences USB du classement B
+
+La configuration complète doit posséder au moins deux ports USB-A de données USB 2.0 minimum.
+
+Un composant sans USB de données est autorisé.
+
+Tous les ports USB de données accessibles sur les composants retenus doivent être au minimum USB 2.0.
+
+Les ports USB-C exclusivement dédiés à la recharge sont autorisés et signalés.
+
+Les ports préexistants des appareils sources ne comptent pas.
+
+Pour chaque système
+
+Fournir :
+
+1. Liste exacte des composants.
+2. Références commerciales.
+3. Versions matérielles.
+4. Firmwares.
+5. Schéma physique.
+6. Flux vidéo.
+7. Flux audio.
+8. Liaisons USB.
+9. Commandes et protocoles.
+10. Sources compatibles.
+11. Fonctions confirmées.
+12. Fonctions conditionnelles.
+13. Fonctions inconnues.
+14. Résolutions/fréquences.
+15. HDR/VRR.
+16. Restrictions HDCP.
+17. CEC.
+18. KVM.
+19. Polling HID.
+20. Latence.
+21. Réseau.
+22. Audio.
+23. Éclairage.
+24. Coût total TTC.
+25. Maintenance.
+26. Évolutivité.
+27. Fiabilité.
+28. Encombrement.
+29. Consommation.
+30. Limites impossibles à résoudre.
+
+Ne pas considérer qu'un assemblage de produits individuellement compatibles garantit leur interopérabilité.
+
+Vérifier les capacités réelles de la chaîne complète.
+
+Comparaison finale A contre B
+
+Comparer :
+
+- Compatibilité.
+- Gaming.
+- Image.
+- Connectique.
+- USB.
+- Contrôle.
+- CEC.
+- KVM.
+- Audio.
+- Polling.
+- Latence.
+- Réseau.
+- Éclairage.
+- Simultanéité.
+- Coût complet.
+- Ergonomie.
+- Fiabilité.
+- Évolutivité.
+
+Appliquer les mêmes pondérations générales.
+
+Ne pas attribuer au classement A les fonctions d'accessoires externes.
+
+Ne pas omettre les coûts des accessoires du classement B.
+
+Dix verdicts généraux obligatoires
+
+1. Meilleur écran tout-en-un.
+2. Meilleur téléviseur gaming polyvalent.
+3. Meilleur moniteur gaming polyvalent.
+4. Meilleur Smart Monitor.
+5. Meilleur système modulaire complet.
+6. Meilleur rapport fonctionnalités/prix.
+7. Meilleur système PS4/PS5/Xbox.
+8. Meilleur système PC/Mac/Linux.
+9. Meilleur système multiplateforme simultané.
+10. Meilleure solution pour ma PS4 Slim bloquée.
+
+Verdicts spécialisés
+
+11. Meilleur écran/système pour Reflex Analyzer.
+12. Meilleur système pour clavier et souris 2K–8K.
+13. Meilleur KVM haute fréquence.
+14. Meilleure configuration avec deux dongles indépendants.
+15. Meilleure configuration avec un seul dongle partagé.
+16. Meilleur appareil gaming avec réseau, Bluetooth et S/PDIF.
+17. Meilleur système Ambilight/équivalent.
+18. Meilleur équipement historique encore intéressant.
+19. Meilleur système évolutif.
+20. Meilleur système maximisant les fonctions simultanées.
+
+Si les preuves sont insuffisantes pour désigner un gagnant, indiquer explicitement qu'aucun vainqueur n'est encore démontré.
+
+---
+
+20. PRÉSENTATION DES CONCLUSIONS
+
+Commencer par un résumé des conclusions les plus importantes.
+
+Présenter ensuite :
+
+1. État du marché toutes générations.
+2. Technologies et limites.
+3. Catalogue historique et actuel.
+4. Tableau de conformité USB.
+5. Matrice des appareils sources.
+6. Matrice vidéo.
+7. Gaming.
+8. HDR et qualité d'image.
+9. Upscaling.
+10. CEC.
+11. PS4 Slim.
+12. USB et périphériques.
+13. Claviers/souris 8K.
+14. Dongles partagés et séparés.
+15. Hubs et KVM.
+16. Audio.
+17. Réseau.
+18. Ambilight.
+19. Télémétrie.
+20. Contrôle logiciel.
+21. Classement A.
+22. Classement B.
+23. Scores pondérés.
+24. Prix et disponibilité.
+25. Comparaison finale.
+26. Inconnues et prochaines vérifications.
+
+Utiliser des tableaux détaillés.
+
+Fournir les références exactes et les sources significatives.
+
+Préciser les conditions des essais et les différences entre variantes matérielles.
+
+Distinguer les fonctions natives, celles apportées par accessoires et celles dépendant de logiciels.
+
+Ne pas inventer de mesures.
+
+Ne pas supposer une compatibilité universelle à partir d'une norme ou d'un logo.
+
+Ne pas masquer les incompatibilités.
+
+Ne pas exclure des produits historiquement intéressants simplement parce qu'ils sont anciens.
+
+Ne pas exclure des produits utilisant USB 2.0 dès lors qu'ils respectent les exigences actualisées.
+
+Ne pas attribuer automatiquement 8 000 Hz à un hub USB 2.0, même High-Speed, sans preuve de fonctionnement avec le périphérique concerné.
+
+Ne pas attribuer la fonction « touche PS » à un équipement CEC sans démonstration réelle.
+
+Ne pas présenter les fonctions HDMI-CEC historiques comme forcément opérationnelles sur tous les firmwares actuels.
+
+Principe final
+
+L'objectif n'est pas de trouver l'écran possédant le plus de logos ou le plus grand nombre de ports, mais le système offrant le maximum de fonctionnalités réellement compatibles, simultanément exploitables, mesurées, fiables et évolutives.
+
+Le meilleur système peut être ancien ou récent, autonome ou modulaire, et utiliser USB 2.0, USB 3.x, USB4 ou Thunderbolt selon ce qui fonctionne réellement le mieux.
+
+Aucune fonctionnalité ne doit être présumée compatible sans preuve suffisante.
+
+Les classements doivent reposer sur la compatibilité fonctionnelle réelle, les essais documentés, les contraintes des appareils sources et les performances mesurées.
+
+La recherche doit être menée sur toutes les générations et tous les marchés pertinents, sans restriction arbitraire à l'année en cours.
