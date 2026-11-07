@@ -41,7 +41,7 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 
 | Numéro | Proposition | Statut |
 |---|---|---|
-| 1 | Matrice de coexistence des fonctionnalités | EN ATTENTE |
+| 1 | Matrice de coexistence des fonctionnalités | **VALIDÉ — intégré en v2.3** |
 | 2 | EDID, HPD, émulation et continuité des connexions | EN ATTENTE |
 | 3 | Protocole de mesures de latence normalisées, comparables et reproductibles | **VALIDÉ** |
 | 4 | Scénarios de fonctionnement multi-appareils en conditions réelles | EN ATTENTE |
@@ -52,15 +52,24 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 | 9 | Registre structuré des preuves et export CSV/JSON/XLSX | **VALIDÉ** |
 | 10 | Frontière de Pareto et comparatifs d'efficacité réelle | **VALIDÉ** |
 
-**Statut historique :** les sept propositions ci-dessus ne sont pas présentes dans les seuls amendements v2.1 ; elles sont désormais **intégrées directement à la v2.2 fusionnée**. Les propositions 1, 2, 4 demeurent non approuvées.
+**Statut historique :** les sept propositions ci-dessus ne sont pas présentes dans les seuls amendements v2.1 ; elles sont désormais **intégrées directement à la v2.2 fusionnée**. Au moment de la v2.2, les propositions 1, 2 et 4 restaient ouvertes ; **la proposition 1 a ensuite été validée et intégrée dans la v2.3**, tandis que 2 et 4 restent en attente.
 
 ## Révision v2.2 — fusion exécutée et vérifiée
 
-- **Version active du prompt :** [VERSION-2.2-FUSIONNEE.md](VERSION-2.2-FUSIONNEE.md), contenant directement les 20 sections, les amendements A1–A15 et les propositions approuvées 3/5/6/7/8/9/10.
+- **Version historique archivée :** [VERSION-2.2-FUSIONNEE.md](archives/versions/VERSION-2.2-FUSIONNEE.md), contenant directement les 20 sections, les amendements A1–A15 et les propositions approuvées 3/5/6/7/8/9/10.
 - **Sources de consolidation :** [VERSION-2.0-CONSOLIDEE.md](archives/versions/VERSION-2.0-CONSOLIDEE.md), [VERSION-2.1-AMENDEMENTS.md](archives/versions/VERSION-2.1-AMENDEMENTS.md), [VERSION-2.2-AJOUTS-VALIDES.md](archives/versions/VERSION-2.2-AJOUTS-VALIDES.md).
 - **Contrôle :** [RAPPORT-CONSERVATION-V2.2.md](RAPPORT-CONSERVATION-V2.2.md), avec 20/20 sections, 15/15 amendements et 7/7 propositions conservés.
-- **En suspens :** USB-A recharge uniquement, méthode en cinq phases, taxonomie des dalles, propositions supplémentaires 1, 2, 4.
+- **En suspens à l'époque de la v2.2 :** USB-A recharge uniquement, méthode en cinq phases, taxonomie des dalles, propositions supplémentaires 1, 2, 4. Ce statut historique est actualisé ci-dessous.
 - Les versions et décisions historiques restent présentes sans modification rétroactive.
+
+## Révision v2.3 — validation de la proposition 1
+
+- **Décision :** proposition 1 « Matrice explicite de coexistence des fonctionnalités » **VALIDÉE** par la réponse « ok » après présentation de son périmètre.
+- **Intégration :** [VERSION-2.3-FUSIONNEE.md](VERSION-2.3-FUSIONNEE.md), sections 3, 4, 7, 9, 10, 14 et 19 ; matrice maître des combinaisons, preuves par scénario et conservation des quatre statuts généraux.
+- **Archives :** [v2.2 complète](archives/versions/VERSION-2.2-FUSIONNEE.md), déplacée sans changer son blob Git.
+- **Conservation :** [RAPPORT-CONSERVATION-V2.3.md](RAPPORT-CONSERVATION-V2.3.md), avec vingt sections, quinze amendements, sept ajouts antérieurs et proposition 1 contrôlés.
+- **Restent en attente :** proposition 2 (EDID/HPD), proposition 4 (scénarios multi-appareils), méthode en cinq phases, taxonomie des dalles et statut des USB-A exclusivement recharge.
+- Aucun changement des pondérations 25/20/20/20/10/5, des vingt verdicts ni des règles USB. PR #4 en brouillon.
 
 ## Archivage documentaire du 7 novembre 2026
 

@@ -1,5 +1,7 @@
 # Rapport des propositions — 7 novembre 2026
 
+> **Instantané historique** : les statuts ci-dessous reflètent la première synthèse du 7 novembre. Depuis, la proposition **1** a été validée et intégrée en v2.3 ; les propositions **2 et 4** restent en attente. Se reporter à [DECISIONS.md](DECISIONS.md) pour l'état à jour.
+
 **Portée :** audit du prompt antérieur contre la v2.0, rédaction d'amendements v2.1, puis nouvelles propositions. Ce document distingue **validé**, **proposé** et **non arbitré**. Il ne remplace ni les prompts complets ni le journal des décisions.
 
 ## 1. Audit comparatif — corrections VALIDÉES

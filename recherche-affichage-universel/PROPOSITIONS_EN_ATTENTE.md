@@ -4,9 +4,10 @@ Actualisé le 2026-11-07. **Aucune de ces propositions n'est réputée validée.
 
 ## Dernière série de dix propositions
 
-- **1 — Matrice explicite de coexistence :** documenter les interactions entre 4K/HDR/VRR/DSC/USB/KVM/dongles et les combinaisons simultanées. La v2.0 possède déjà des vérifications de simultanéité, mais une matrice systématique reste proposée.
 - **2 — EDID/HPD/continuité :** émulation EDID, HPD, gestion des écrans au changement de source, persistance USB et transparence des KVM. Le cahier des charges couvre déjà certains aspects ; renforcement proposé.
 - **4 — Scénarios multi-appareils :** procédures d'essai concrètes, mise sous tension/veille, changements d'hôtes et reprise après panne ou déconnexion.
+
+**La proposition 1 a été approuvée et intégrée dans [VERSION-2.3-FUSIONNEE.md](VERSION-2.3-FUSIONNEE.md)**. Voir [DECISIONS.md](DECISIONS.md).
 
 ## Propositions plus anciennes qui restent en discussion
 

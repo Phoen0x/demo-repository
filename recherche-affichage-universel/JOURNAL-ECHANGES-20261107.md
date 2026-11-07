@@ -51,11 +51,23 @@ L'utilisatrice demande : « fout original + v1 + v2 + rapport des dernieres prop
 
 L'utilisatrice demande d'intégrer les « amendements/erratums validés » directement dans le prompt existant, plutôt que d'utiliser séparément la v2.0 et les addenda.
 
-**Exécution :** création de [VERSION-2.2-FUSIONNEE.md](VERSION-2.2-FUSIONNEE.md), un prompt intégral autonome reprenant les vingt sections normatives de la v2.0, les amendements A1–A15 et les sept propositions complémentaires approuvées 3/5/6/7/8/9/10.
+**Exécution :** création de [VERSION-2.2-FUSIONNEE.md](archives/versions/VERSION-2.2-FUSIONNEE.md), un prompt intégral autonome reprenant les vingt sections normatives de la v2.0, les amendements A1–A15 et les sept propositions complémentaires approuvées 3/5/6/7/8/9/10.
 
 **Conservation :** anciennes versions laissées intactes ; aucun arbitrage ajouté aux propositions 1/2/4, au statut des USB-A recharge seule, à la méthodologie en cinq phases ou à la taxonomie des dalles.
 
 **Vérification :** contrôle par relecture GitHub de la présence intégrale des vingt sections, quinze amendements et sept propositions, détaillé dans [RAPPORT-CONSERVATION-V2.2.md](RAPPORT-CONSERVATION-V2.2.md). La PR reste brouillon ; `main` demeure inchangée.
+
+## Échange 8 bis — archivage non destructif des versions intermédiaires
+
+Après audit de conservation, l'utilisatrice valide la proposition de ranger les versions intermédiaires. La v2.0, les amendements v2.1 et les ajouts validés de v2.2 sont déplacés dans `archives/versions/` sans modification de blob Git, avec correction des liens. Les textes restent accessibles ; `main` reste intacte.
+
+## Échange 9 — validation de la matrice de coexistence
+
+L'assistant propose de renforcer la vérification des fonctions simultanées avec matrice systématique et preuves par combinaisons dans les sections 3, 4, 7, 9, 10, 14 et 19. L'utilisatrice répond **« ok »**.
+
+**Décision :** proposition supplémentaire 1 **VALIDÉE**. Les propositions 2 et 4 restent en attente.
+
+**Application :** nouveau prompt autonome [VERSION-2.3-FUSIONNEE.md](VERSION-2.3-FUSIONNEE.md), conservation de la v2.2 dans `archives/versions/`, rapport [RAPPORT-CONSERVATION-V2.3.md](RAPPORT-CONSERVATION-V2.3.md), actualisation des décisions. Aucune modification des poids, verdicts, règles USB ou archives antérieures. PR en brouillon.
 
 ## Règles de tenue du journal
 

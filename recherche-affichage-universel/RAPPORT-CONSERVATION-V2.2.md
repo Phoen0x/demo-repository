@@ -10,7 +10,7 @@ Date : 7 novembre 2026. Dépôt : `Phoen0x/demo-repository`, PR #4, branche `doc
 | `archives/versions/VERSION-2.1-AMENDEMENTS.md` | `667f1f56037eb1a8d64a441726061ed79df6ad6d` |
 | `archives/versions/VERSION-2.2-AJOUTS-VALIDES.md` | `49871269d1d9706cd6d150e7b81e7e20ec9ddda9` |
 
-Cible : `VERSION-2.2-FUSIONNEE.md` — blob SHA `5bcfc987cd32c90654b1dcca67858f0fe53ed241`, 81607 caractères Unicode.
+Cible historique désormais archivée : `archives/versions/VERSION-2.2-FUSIONNEE.md` — blob SHA `5bcfc987cd32c90654b1dcca67858f0fe53ed241`, 81607 caractères Unicode.
 
 ## Contrôles automatisés sur le fichier relu depuis GitHub
 
