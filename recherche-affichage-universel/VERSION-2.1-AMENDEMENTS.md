@@ -475,3 +475,199 @@ Les solutions proposées pour la PS4 Slim actuellement bloquée doivent privilé
 
 ---
 
+## A12. Complément aux sections 17 à 19 — Gestion rigoureuse des candidats
+
+Conserver obligatoirement trois catégories de présentation distinctes :
+
+### 1. Candidats conformes confirmés
+
+Les exigences éliminatoires applicables sont satisfaites avec des preuves suffisantes.
+
+Ils peuvent intégrer les classements principaux.
+
+Une conformité conditionnelle n'est admissible dans ces classements que si les conditions nécessaires sont explicitement satisfaites et documentées dans la configuration évaluée.
+
+### 2. Candidats non conformes confirmés
+
+Une incompatibilité avec une exigence éliminatoire est démontrée.
+
+Ils ne doivent pas apparaître comme conformes dans les classements principaux.
+
+Ils peuvent être conservés dans un classement secondaire explicitement identifié comme non conforme, notamment lorsqu'ils présentent un intérêt historique ou technique.
+
+### 3. Candidats à conformité indéterminée
+
+Les informations restent insuffisantes, ambiguës ou contradictoires pour vérifier une exigence éliminatoire.
+
+Ces candidats ne doivent être déclarés ni conformes ni non conformes sans preuve suffisante.
+
+Ils sont conservés dans une catégorie distincte intitulée :
+
+**« Candidats à conformité indéterminée »**
+
+Pour chacun, documenter :
+
+- Les exigences confirmées.
+- Les exigences non conformes confirmées lorsqu'elles existent.
+- Les exigences restant inconnues.
+- Les sources consultées.
+- Les recherches complémentaires effectuées.
+- Les contradictions éventuelles.
+- Les hypothèses restantes.
+- Les vérifications encore nécessaires.
+- Le niveau de confiance.
+- Les raisons justifiant son maintien dans le catalogue.
+
+Ne pas appliquer automatiquement à ces candidats la même pénalité qu'à ceux dont la non-conformité est démontrée.
+
+Ne pas leur attribuer non plus une conformité présumée.
+
+Réintégrer les candidats dans les classements appropriés dès que de nouvelles preuves permettent de statuer.
+
+Les quatre statuts fonctionnels de la section 17 demeurent applicables : conforme confirmé, non conforme confirmé, conformité conditionnelle et conformité indéterminée.
+
+---
+
+## A13. Complément à la section 18 — Notation et niveaux de confiance
+
+Avant d'attribuer les scores, définir et publier les sous-critères utilisés à l'intérieur des six catégories de notation.
+
+Pour chaque sous-critère, préciser :
+
+1. Sa définition.
+2. Son poids dans la catégorie.
+3. Les méthodes d'évaluation.
+4. Les unités et indicateurs pertinents.
+5. Les sources admissibles.
+6. Les conditions des essais.
+7. Le traitement des données inconnues.
+8. Le traitement des fonctions non applicables.
+9. La gestion des fonctionnalités conditionnelles.
+10. La méthode utilisée pour éviter les doubles comptabilisations.
+
+Appliquer les mêmes règles aux candidats comparables.
+
+### Niveaux de confiance
+
+Associer à chaque évaluation un niveau de confiance explicite :
+
+- Élevé.
+- Moyen.
+- Faible.
+
+Justifier ce niveau selon la qualité, le nombre, la cohérence, la date et l'indépendance des sources disponibles.
+
+Distinguer :
+
+- Mesures instrumentées reproductibles.
+- Essais documentés.
+- Spécifications officielles détaillées.
+- Certifications.
+- Déclarations commerciales.
+- Retours d'utilisateurs.
+- Hypothèses techniques.
+- Informations insuffisantes.
+
+Une fonction simplement supposée ne doit pas apporter de points.
+
+Une fonction non documentée ne doit pas entraîner automatiquement une pénalité identique à une incompatibilité démontrée.
+
+Lorsqu'une note complète ne peut pas être calculée de façon sérieuse, présenter les sous-scores effectivement justifiables et signaler les composantes indéterminées.
+
+### Comparabilité des classements A et B
+
+Conserver exactement les pondérations générales :
+
+| Critère | Pondération |
+|---|---:|
+| Compatibilité consoles et appareils | 25 % |
+| Qualité d'image et gaming | 20 % |
+| Connectique et fonctionnalités USB | 20 % |
+| Contrôle HDMI-CEC et KVM | 20 % |
+| Audio, personnalisation et ergonomie | 10 % |
+| Prix, fiabilité et évolutivité | 5 % |
+| **Total** | **100 %** |
+
+Les mêmes méthodes de notation doivent être appliquées aux deux classements, sous réserve des différences explicitement définies entre fonctions natives et fonctions apportées par l'architecture modulaire.
+
+Les bonus importants doivent continuer à peser davantage que les bonus secondaires à l'intérieur des catégories pertinentes.
+
+Aucune incompatibilité éliminatoire ne doit être masquée par une bonne moyenne pondérée.
+
+---
+
+## A14. Complément à la section 19 — Séparation des classements
+
+Pour chacun des classements A et B :
+
+1. Présenter les candidats conformes confirmés.
+2. Présenter séparément les candidats à conformité indéterminée.
+3. Présenter éventuellement les candidats non conformes dans une comparaison secondaire distincte.
+4. Identifier les fonctions conditionnelles et les conditions nécessaires.
+5. Ne pas désigner comme vainqueur confirmé un équipement dont une exigence éliminatoire reste indéterminée.
+6. Ne pas masquer les limitations par les scores.
+7. Fournir les niveaux de confiance.
+8. Réexaminer les candidats indéterminés lorsque de nouvelles informations deviennent disponibles.
+
+Pour le classement A, vérifier que toutes les fonctions comptabilisées appartiennent nativement à l'écran ou au téléviseur.
+
+Pour le classement B, vérifier le fonctionnement de la chaîne complète, sans présumer l'interopérabilité à partir des seules fiches de ses composants.
+
+Les candidats non conformes peuvent rester dans le catalogue historique et technique, mais ils ne doivent pas être présentés comme satisfaisant les exigences obligatoires.
+
+---
+
+## A15. Complément à la section 20 — Présentation et traçabilité
+
+Les conclusions devront intégrer les nouvelles vérifications suivantes :
+
+- Matrice des restrictions Apple et Android selon les modèles et versions système.
+- Distinction des architectures matérielles G-SYNC.
+- Inventaire des câbles et adaptateurs nécessaires.
+- Vérification des certifications et débits HDMI 2.2/Ultra96.
+- Restrictions macOS et DisplayPort MST.
+- Recharge et alimentation des ports USB en veille.
+- Inventaire séparé des interfaces USB internes de maintenance.
+- Analyse des interférences USB 3.x et 2,4 GHz.
+- Essais de reconnexion et de stabilité des KVM.
+- Mesures distinctes des latences audio et microphone.
+- Matrice de contrôle logiciel Windows/Linux/macOS.
+- Profils et automatisations d'éclairage ambiant.
+- Tableau de preuves HDMI-CEC fonction par fonction sur PS4.
+- Classements séparés des candidats conformes, non conformes et indéterminés.
+- Sous-critères de notation définis avant l'évaluation.
+- Niveau de confiance justifié de chaque score.
+
+Pour toutes les données importantes, préciser les références exactes, les dates, les conditions de test et les sources.
+
+Les informations contradictoires doivent rester visibles tant qu'elles ne sont pas résolues.
+
+Aucune mesure ne doit être inventée.
+
+---
+
+## Principe de conservation final — Version 2.1
+
+Les présentes dispositions complètent la version 2.0 sans la remplacer.
+
+Sont expressément conservés :
+
+- Les vingt sections du cahier des charges consolidé.
+- La recherche mondiale et multigénérationnelle.
+- Le minimum USB 2.0 et les exigences quantitatives des deux classements.
+- Les quatre statuts de conformité.
+- Les six pondérations générales.
+- La hiérarchie des bonus importants et secondaires.
+- Les vingt verdicts généraux et spécialisés.
+- L'analyse des périphériques 2K/4K/8K.
+- Les exigences de transparence HID des hubs et KVM.
+- Les distinctions entre contrôle HDMI-CEC, USB HID, Bluetooth et émulation de manette.
+- La priorité accordée à la préservation du firmware et des données de la PS4 Slim.
+- La séparation entre fonctions natives, logicielles et apportées par des accessoires.
+- L'interdiction de présumer une compatibilité universelle sans preuves.
+
+**Aucune disposition non validée lors de la révision ne doit être introduite implicitement.**
+
+En cas d'ambiguïté entre une nouvelle précision et une exigence déjà définie, préserver les règles de la version 2.0 et signaler l'ambiguïté au lieu d'inventer un arbitrage.
+
+L'objectif demeure d'identifier les meilleures solutions réellement compatibles, performantes, simultanément exploitables, fiables, évolutives et documentées, sans favoriser artificiellement une génération, une technologie ou une certification.
