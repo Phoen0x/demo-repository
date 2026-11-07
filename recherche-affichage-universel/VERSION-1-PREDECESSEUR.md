@@ -676,3 +676,340 @@ Vérifier le fonctionnement en conditions réelles, et pas seulement la reconnai
 
 Distinguer un KVM capable de partager des périphériques d'un dispositif capable d'émuler ou de traduire des commandes entre protocoles.
 
+11. Audio et microphones
+
+Rechercher :
+
+- Haut-parleurs intégrés, facultatifs mais appréciés.
+- Sortie casque 3,5 mm.
+- Entrée microphone.
+- Prise jack TRRS combinant sortie casque stéréo et entrée microphone.
+- Connecteurs casque et microphone séparés, si disponibles.
+- S/PDIF optique ou coaxial.
+- ARC/eARC.
+- Passthrough audio multicanal.
+- PCM, Dolby Digital, Dolby TrueHD, Dolby Atmos, DTS et DTS:X.
+- Connexion de DAC et interfaces USB.
+- Compatibilité audio et chat vocal avec PS4, PS5, Xbox et PC.
+- Gestion du volume avec télécommande ou commandes intégrées.
+- Latence audio, synchronisation labiale et formats effectivement acceptés.
+
+Vérifier également :
+
+- Les possibilités d'acheminer le son et le microphone par USB.
+- La reconnaissance des casques et microphones connectés au hub de l'écran.
+- La compatibilité des interfaces audio USB avec les consoles.
+- La gestion de l'audio lors des changements KVM.
+- Les possibilités de communication bidirectionnelle.
+- L'utilisation simultanée de plusieurs sorties audio.
+- Les limitations spécifiques à chaque appareil source.
+
+Bonus audio et connectivité
+
+Accorder un bonus secondaire à la présence effective de :
+
+- Sortie S/PDIF optique.
+- Sortie S/PDIF coaxiale.
+- Plusieurs sorties audio indépendantes.
+- Connectivité Bluetooth audio.
+- Fonctions avancées de routage audio.
+- Contrôle audio par réseau ou logiciel.
+
+Étudier également les casques, micros-casques, DAC, interfaces audio et dongles pour lesquels la latence est particulièrement importante.
+
+Mesurer ou comparer, selon les protocoles applicables :
+
+- La latence audio de sortie.
+- La latence du microphone.
+- Le délai aller-retour audio lorsque pertinent.
+- Les codecs audio.
+- La fréquence d'échantillonnage.
+- La stabilité du transport.
+- Les effets du Bluetooth, des dongles RF, de l'USB et des intermédiaires audio.
+- Les différences entre casque filaire, casque USB et casque sans fil.
+
+La cible de 2 000 à 8 000 Hz ne doit pas être appliquée artificiellement à la fréquence d'échantillonnage audio ou à une liaison audio n'utilisant pas de fréquence d'interrogation comparable.
+
+Ne pas considérer qu'une sortie audio implique une prise en charge des microphones ni du chat vocal sur toutes les consoles.
+
+Vérifier séparément les capacités de sortie audio, d'entrée microphone, de transport du microphone vers l'appareil source et de gestion du chat vocal.
+
+12. Interface, menus, télémétrie, personnalisation et cheats
+
+Je recherche aussi les fonctions avancées suivantes :
+
+- OSD/HUD personnalisable.
+- Réticules/viseurs personnalisables.
+- Superposition de FPS, fréquence de rafraîchissement, résolution et informations de signal.
+- Chronomètres, minuteurs et outils gaming intégrés.
+- Profils mémorisables par source et par jeu.
+- Commandes physiques, joystick et télécommande.
+- Logiciel de contrôle sous Windows, Linux et macOS.
+- DDC/CI, MCCS, API et automatisation.
+- Firmware actualisable.
+- Éventuellement fonctionnalités open source ou programmables.
+- Possibilités d'automatisation locale sans cloud.
+
+Télémétrie avancée
+
+Rechercher les écrans et systèmes capables d'afficher des informations provenant des consoles, PC, Mac, smartphones et autres appareils connectés.
+
+Étudier notamment :
+
+- FPS réellement produits par l'appareil source.
+- Fréquence de rafraîchissement de l'écran.
+- Frametime et régularité des images.
+- Résolution effective.
+- Informations HDR et VRR.
+- Charge CPU.
+- Charge GPU.
+- Température CPU/GPU.
+- Utilisation RAM et VRAM.
+- Consommation énergétique.
+- Vitesse des ventilateurs et autres capteurs disponibles.
+- Informations de performance.
+- Informations système.
+- État des périphériques connectés.
+- Données de diagnostic.
+- Latence système.
+- Latence PC et affichage.
+- Latence des périphériques compatibles.
+- Fréquence d'interrogation mesurée lorsqu'elle est disponible.
+- Jitter, irrégularités des rapports et autres indicateurs pertinents.
+
+Distinguer systématiquement :
+
+- Les informations directement transmises par l'appareil source.
+- Les métadonnées du signal vidéo.
+- Les mesures effectuées par l'écran lui-même.
+- Les valeurs estimées ou calculées.
+- Les données récupérées par logiciel.
+- Les informations accessibles grâce à un accessoire externe.
+
+Ne pas assimiler la fréquence de rafraîchissement affichée par un moniteur aux FPS réellement produits par un jeu.
+
+Contrôle des appareils depuis l'écran
+
+Rechercher la possibilité d'interagir avec les appareils sources depuis :
+
+- Une télécommande.
+- Les boutons physiques de l'écran.
+- Le joystick OSD.
+- Un clavier.
+- Une souris.
+- Une manette.
+- Un périphérique USB.
+- Un périphérique Bluetooth ou RF.
+- Une application locale.
+- Un logiciel PC.
+- Une interface réseau.
+- Une API ou un contrôleur programmable.
+
+Identifier précisément les commandes disponibles, les protocoles utilisés et les restrictions imposées par chaque appareil.
+
+HUD, viseurs, cheats et fonctions gaming personnalisables
+
+Rechercher explicitement :
+
+- HUD personnalisables.
+- Réticules et viseurs personnalisables.
+- Réticules dynamiques lorsque disponibles.
+- Outils d'assistance visuelle.
+- Amélioration de la visibilité dans les zones sombres.
+- Overlays gaming avancés.
+- Indicateurs de performances.
+- Profils spécifiques à chaque jeu.
+- Minuteurs et chronomètres.
+- Macros et raccourcis.
+- Remappage des commandes.
+- Fonctions programmables.
+- Outils d'assistance à la visée.
+- Fonctionnalités intégrées parfois commercialisées ou décrites comme des cheats.
+- Personnalisation des paramètres de ces fonctionnalités.
+- Possibilités de contrôle par logiciel ou périphérique externe.
+- Affichage des données de NVIDIA Reflex Analyzer ou des outils de mesure équivalents lorsqu'ils sont pris en charge.
+- Affichage des statistiques de latence des périphériques et de fréquence d'interrogation lorsque ces données sont effectivement accessibles.
+
+Distinguer :
+
+1. Les aides purement visuelles générées localement par l'écran.
+2. Les fonctions qui agissent sur le signal vidéo.
+3. Les fonctions qui transmettent réellement des commandes.
+4. Les périphériques capables de modifier ou d'automatiser les entrées.
+5. Les logiciels tiers nécessaires.
+6. Les fonctions intégrées nativement.
+7. Les fonctions reposant sur un système programmable ou modifiable.
+
+Documenter leurs restrictions, leur compatibilité et les règles applicables aux jeux en ligne.
+
+Ne pas présenter une fonction d'assistance visuelle comme une véritable modification du comportement du jeu.
+
+Personnalisation et accès aux réglages internes
+
+Étudier les possibilités de :
+
+- Configurer l'OSD depuis un PC.
+- Contrôler l'écran par USB-B, USB-C ou liaison réseau.
+- Lire les paramètres actifs.
+- Modifier les profils.
+- Sauvegarder et restaurer les réglages.
+- Accéder aux éventuelles informations de diagnostic.
+- Utiliser des logiciels constructeurs ou open source.
+- Programmer des automatisations locales.
+- Piloter les fonctions depuis des périphériques externes.
+
+Évaluer les restrictions et les possibilités de fonctionnement sous Windows, Linux et macOS.
+
+Distinguer les aides à l'affichage locales, les fonctionnalités réellement intégrées et les mécanismes qui nécessitent un logiciel tiers.
+
+13. Ergonomie et durabilité
+
+Évaluer :
+
+- Taille, définition et densité de pixels.
+- Format 16:9, ultrawide ou autre.
+- Surface plane ou incurvée.
+- Réglage en hauteur, inclinaison, rotation et pivot.
+- Montage VESA.
+- Connectique accessible.
+- Consommation électrique.
+- Bruit électronique, ventilateurs et chauffe.
+- Garantie et réparabilité.
+- Politique de mises à jour firmware.
+- Longévité, fiabilité et défauts connus.
+- Confidentialité, publicité et télémétrie des Smart TV/Smart Monitors.
+
+Bonus secondaires d'ergonomie, de réseau et d'éclairage
+
+Rechercher également :
+
+- Ethernet intégré.
+- Wi-Fi intégré.
+- Bluetooth intégré.
+- Possibilités de connexion et de contrôle local.
+- Intégration domotique lorsque disponible.
+- Philips Ambilight ou éclairage ambiant réactif équivalent.
+- Éclairage RGB/LED synchronisé avec les images.
+- Synchronisation de l'éclairage avec le son.
+- Réglage de la couleur, de l'intensité et des zones lumineuses.
+- Profils lumineux propres aux jeux, films et autres usages.
+- Éclairage intégré ou apporté par un dispositif externe.
+- Fonctionnement de l'éclairage avec les sources HDMI/DisplayPort.
+- Contrôle local des éclairages sans compte cloud lorsque possible.
+
+Pour les systèmes Ambilight et équivalents, vérifier :
+
+- S'il s'agit d'un système natif ou externe.
+- Sa compatibilité avec les consoles et les PC.
+- La méthode utilisée pour synchroniser les couleurs.
+- Le fonctionnement avec HDR, VRR, 4K120 et autres signaux vidéo.
+- Les éventuelles limitations HDCP.
+- La latence et la réactivité de l'éclairage.
+- L'impact éventuel sur la latence ou les capacités vidéo lorsqu'un boîtier externe est utilisé.
+- La consommation électrique.
+- La disponibilité des réglages et fonctions de personnalisation.
+- Les dépendances aux services réseau et au cloud.
+
+Ces caractéristiques sont des avantages secondaires et non des exigences éliminatoires.
+
+Privilégier les solutions durables, fiables et réparables.
+
+14. Comparer les architectures possibles
+
+Ne pas se limiter aux écrans tout-en-un.
+
+Comparer au minimum :
+
+A. Moniteur gaming haut de gamme avec hub USB, KVM et contrôle intégré.
+
+B. Téléviseur gaming haut de gamme avec HDMI-CEC, eARC et télécommande.
+
+C. Smart Monitor combinant fonctions informatiques et multimédias.
+
+D. Écran haut de gamme + dock USB4/Thunderbolt + KVM externe.
+
+E. Écran ou TV + switch HDMI 2.1/2.2 + solution HDMI-CEC.
+
+F. Écran + processeur vidéo/upscaler externe + solution de gestion audio et USB.
+
+G. Autre architecture démontrablement supérieure.
+
+Étudier également les combinaisons associant :
+
+- Écran ou téléviseur haut de gamme.
+- Hub USB-A 3.x et USB-C.
+- Liaison USB-B upstream.
+- Dock USB4/Thunderbolt.
+- KVM USB/HDMI/DisplayPort.
+- Contrôleur HDMI-CEC.
+- Adaptateur ou traducteur de commandes.
+- Contrôleur programmable.
+- Interfaces de gestion du moniteur.
+- Processeur vidéo externe.
+- Gestionnaire audio.
+- Télécommande universelle.
+- Logiciel de contrôle local.
+- Équipement de mesure de latence, tel que Reflex Analyzer ou solution équivalente.
+- Hub ou KVM validé pour les périphériques à 2 000–8 000 Hz.
+- Récepteurs et dongles sans fil compatibles haute fréquence.
+- Solutions de connectivité Ethernet, Wi-Fi et Bluetooth.
+- Systèmes Ambilight ou éclairage ambiant équivalent.
+
+Comparer le coût total, les fonctionnalités cumulées, les pertes de compatibilité, la complexité, la latence, la fiabilité et l'évolutivité.
+
+Une combinaison modulaire est acceptable et même préférable si elle répond mieux aux objectifs.
+
+Vérifier les interactions entre tous les composants de chaque système, notamment les limitations introduites par les intermédiaires.
+
+Pour les systèmes modulaires, ne pas imposer de ports USB à chaque accessoire : les exigences de nombre minimal de ports s'appliquent au système complet, tandis que la conformité des ports USB effectivement présents doit être vérifiée sur chacun des composants.
+
+15. Cas d'usage PS4 Slim prioritaire
+
+Je possède une PS4 Slim avec deux ports USB dont un seul semble encore fonctionnel, potentiellement uniquement pour la charge.
+
+Aucune DualShock 4 n'est actuellement associée à la console. Je possède une DualShock 4 et une DualSense, des claviers et souris USB/Bluetooth/RF, mais pas de câble micro-USB avec données disponible pour le moment.
+
+Remote Play est désactivé et aucun téléphone n'est associé à la PS4 via Second Screen.
+
+Je souhaite savoir quelles solutions matérielles permettraient éventuellement :
+
+- De transmettre des commandes de navigation à la PS4 via HDMI.
+- D'envoyer l'équivalent de la touche PS.
+- D'utiliser un clavier, une télécommande ou un autre périphérique pour accéder à la console.
+- De contourner l'indisponibilité du port USB de données par une solution matériellement et techniquement validée, si cela est possible.
+- De conserver les données, les jeux et le firmware de la console.
+
+Étudier particulièrement :
+
+- L'utilisation du HDMI-CEC avec une véritable PS4 Slim.
+- La transmission de commandes depuis une télécommande de téléviseur ou moniteur.
+- L'utilisation d'un pont HDMI-CEC.
+- L'utilisation d'un adaptateur USB-CEC.
+- L'utilisation éventuelle d'un contrôleur programmable.
+- Les possibilités d'utiliser un écran ou téléviseur comme intermédiaire de commande.
+- Les différences entre contrôle multimédia et contrôle système.
+- L'envoi éventuel de la touche PS.
+- Le franchissement de l'écran de connexion initial.
+- Les possibilités de communication USB/HID.
+- Les limites imposées par l'absence d'une DualShock 4 associée.
+- L'utilisation éventuelle de périphériques déjà reconnus.
+- Les contraintes d'appairage initial.
+- Les dispositifs matériels réellement compatibles.
+- Les limitations liées à l'état actuel des ports USB.
+- Les moyens de diagnostiquer un port USB potentiellement limité à l'alimentation.
+- Les solutions préservant intégralement les données et le firmware existants.
+
+Distinguer impérativement :
+
+1. Une solution confirmée fonctionnelle.
+2. Une solution fonctionnelle uniquement sous certaines conditions.
+3. Une possibilité théorique non démontrée.
+4. Une incompatibilité technique confirmée.
+5. Une fonctionnalité dont la compatibilité reste inconnue.
+
+Ne pas recommander de réinitialisation, de réinstallation du firmware ou de manipulation risquant d'effacer les données comme solution prioritaire.
+
+Ne pas confondre une fonction théoriquement présente dans une norme avec une capacité réellement prise en charge par cette console.
+
+Ne pas supposer que les fonctions NVIDIA Reflex ou les fréquences d'interrogation élevées des périphériques PC peuvent résoudre le problème d'association initial de cette PS4 Slim.
+
