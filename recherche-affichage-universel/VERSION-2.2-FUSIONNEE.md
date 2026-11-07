@@ -2676,7 +2676,7 @@ Aucune mesure ne doit être inventée.
 
 ## Principe de conservation final — Version 2.2
 
-Les présentes dispositions complètent la version 2.0 sans la remplacer.
+Cette version 2.2 conserve le contenu normatif de la version 2.0 et intègre directement les amendements validés de la version 2.1 dans les sections correspondantes. Les versions antérieures restent archivées séparément sans modification.
 
 Sont expressément conservés :
 
