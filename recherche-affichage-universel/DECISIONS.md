@@ -57,7 +57,7 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 ## Révision v2.2 — fusion exécutée et vérifiée
 
 - **Version active du prompt :** [VERSION-2.2-FUSIONNEE.md](VERSION-2.2-FUSIONNEE.md), contenant directement les 20 sections, les amendements A1–A15 et les propositions approuvées 3/5/6/7/8/9/10.
-- **Sources de consolidation :** [VERSION-2.0-CONSOLIDEE.md](VERSION-2.0-CONSOLIDEE.md), [VERSION-2.1-AMENDEMENTS.md](VERSION-2.1-AMENDEMENTS.md), [VERSION-2.2-AJOUTS-VALIDES.md](VERSION-2.2-AJOUTS-VALIDES.md).
+- **Sources de consolidation :** [VERSION-2.0-CONSOLIDEE.md](archives/versions/VERSION-2.0-CONSOLIDEE.md), [VERSION-2.1-AMENDEMENTS.md](archives/versions/VERSION-2.1-AMENDEMENTS.md), [VERSION-2.2-AJOUTS-VALIDES.md](archives/versions/VERSION-2.2-AJOUTS-VALIDES.md).
 - **Contrôle :** [RAPPORT-CONSERVATION-V2.2.md](RAPPORT-CONSERVATION-V2.2.md), avec 20/20 sections, 15/15 amendements et 7/7 propositions conservés.
 - **En suspens :** USB-A recharge uniquement, méthode en cinq phases, taxonomie des dalles, propositions supplémentaires 1, 2, 4.
 - Les versions et décisions historiques restent présentes sans modification rétroactive.
@@ -65,8 +65,8 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 ## Archivage documentaire du 7 novembre 2026
 
 - [Ancien prompt complet](VERSION-1-PREDECESSEUR.md) — titre source non numéroté ; la désignation « v1 » est une convention d'archivage.
-- [v2.0 complète](VERSION-2.0-CONSOLIDEE.md).
-- [v2.1 — amendements A1–A15 complets](VERSION-2.1-AMENDEMENTS.md).
+- [v2.0 complète](archives/versions/VERSION-2.0-CONSOLIDEE.md).
+- [v2.1 — amendements A1–A15 complets](archives/versions/VERSION-2.1-AMENDEMENTS.md).
 - [Rapport des dernières propositions](RAPPORT-PROPOSITIONS-20261107.md) et [journal des échanges](JOURNAL-ECHANGES-20261107.md).
 - **Aucun texte d'une version plus ancienne distincte (« original » antérieur au prédécesseur) n'a été retrouvé.**
 

@@ -22,9 +22,9 @@ La [validation de conservation v2.2](RAPPORT-CONSERVATION-V2.2.md) documente les
 
 - [**Index des versions et de leur provenance**](INDEX-VERSIONS.md) : distinction entre « original », v1 (nom d'archivage), v2.0, v2.1 et v2.2.
 - [**Original fourni / prompt prédécesseur**](VERSION-1-PREDECESSEUR.md) : les 20 sections du premier grand texte de comparaison, historiquement avec exigence USB 3.x.
-- [**Version 2.0 consolidée**](VERSION-2.0-CONSOLIDEE.md) : les 20 sections du prompt actualisé, avec USB 2.0 minimum et les classements A/B.
-- [**Version 2.1 — Amendements A1–A15**](VERSION-2.1-AMENDEMENTS.md) : document historique des correctifs approuvés.
-- [**Version 2.2 — Ajouts validés**](VERSION-2.2-AJOUTS-VALIDES.md) : source de traçabilité des sept nouvelles propositions intégrées.
+- [**Version 2.0 consolidée**](archives/versions/VERSION-2.0-CONSOLIDEE.md) : les 20 sections du prompt actualisé, avec USB 2.0 minimum et les classements A/B.
+- [**Version 2.1 — Amendements A1–A15**](archives/versions/VERSION-2.1-AMENDEMENTS.md) : document historique des correctifs approuvés.
+- [**Version 2.2 — Ajouts validés**](archives/versions/VERSION-2.2-AJOUTS-VALIDES.md) : source de traçabilité des sept nouvelles propositions intégrées.
 - [**Version 2.2 — Fusion autonome**](VERSION-2.2-FUSIONNEE.md) : version consolidée active de référence.
 - [**Rapport de conservation v2.2**](RAPPORT-CONSERVATION-V2.2.md) : contrôles de la fusion.
 - [**Rapport des propositions du 7 novembre**](RAPPORT-PROPOSITIONS-20261107.md) : dernières validations (3/5/6/7/8/9/10) et toutes les propositions en attente.
