@@ -47,6 +47,16 @@ L'utilisatrice demande : « fout original + v1 + v2 + rapport des dernieres prop
 
 **Interprétation de conservation :** archiver séparément les textes réellement fournis, indiquer avec transparence les versions dont la provenance ou le texte complet n'ont pas été retrouvés, sans inventer de version historique. Ajouter le rapport de propositions et le présent journal. Réutiliser la PR brouillon, sans suppression ni fusion automatique.
 
+## Échange 8 — demande de fusion des amendements directement dans le prompt
+
+L'utilisatrice demande d'intégrer les « amendements/erratums validés » directement dans le prompt existant, plutôt que d'utiliser séparément la v2.0 et les addenda.
+
+**Exécution :** création de [VERSION-2.2-FUSIONNEE.md](VERSION-2.2-FUSIONNEE.md), un prompt intégral autonome reprenant les vingt sections normatives de la v2.0, les amendements A1–A15 et les sept propositions complémentaires approuvées 3/5/6/7/8/9/10.
+
+**Conservation :** anciennes versions laissées intactes ; aucun arbitrage ajouté aux propositions 1/2/4, au statut des USB-A recharge seule, à la méthodologie en cinq phases ou à la taxonomie des dalles.
+
+**Vérification :** contrôle par relecture GitHub de la présence intégrale des vingt sections, quinze amendements et sept propositions, détaillé dans [RAPPORT-CONSERVATION-V2.2.md](RAPPORT-CONSERVATION-V2.2.md). La PR reste brouillon ; `main` demeure inchangée.
+
 ## Règles de tenue du journal
 
 - Ne jamais transformer une proposition en décision approuvée.
