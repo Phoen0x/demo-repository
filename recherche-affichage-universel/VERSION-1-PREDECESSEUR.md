@@ -1341,3 +1341,193 @@ Présenter également :
 
 Le classement général doit rester distinct des classements spécialisés, notamment pour le contrôle des consoles, la qualité d'image, les performances gaming et l'évolutivité.
 
+19. Deux classements généraux obligatoires et indépendants
+
+Produire impérativement deux classements séparés.
+
+Classement A — Meilleur écran tout-en-un, sans accessoires externes
+
+Identifier les meilleurs écrans PC, téléviseurs et Smart Monitors capables d'intégrer nativement le maximum de fonctionnalités recherchées.
+
+Pour ce classement :
+
+- Ne comptabiliser que les capacités natives et opérationnelles de l'écran ou du téléviseur.
+- Ne pas attribuer à un écran les fonctionnalités apportées par un dock, un switch, un KVM externe, un adaptateur ou un processeur vidéo.
+- Autoriser les câbles standards, une télécommande fournie et les accessoires indispensables au fonctionnement normal du produit.
+- Évaluer séparément la qualité d'affichage, la polyvalence, la connectique et les capacités réelles de contrôle.
+- Préciser les fonctions absentes et celles qui ne sont pas simultanément disponibles.
+- Identifier le meilleur appareil globalement, mais aussi les meilleurs pour les consoles, les PC et l'usage hybride.
+- Vérifier la présence d'au moins deux ports USB-A 3.x ou supérieurs directement intégrés.
+- Vérifier qu'aucun port USB de données accessible à l'utilisateur n'est limité à USB 1.x ou 2.0.
+- Vérifier l'absence de ports USB-A exclusivement dédiés à la recharge non conformes.
+- Autoriser les ports USB-C exclusivement dédiés à la recharge, les signaler et ne pas les compter comme ports de données.
+- Vérifier les possibilités offertes par les ports USB-B upstream.
+- Évaluer le contrôle logiciel et matériel du hub et des paramètres du moniteur.
+- Vérifier les possibilités d'accès aux profils et aux mémoires internes effectivement exposées.
+- Évaluer les fonctions de télémétrie, HUD et personnalisation gaming intégrées.
+- Vérifier le niveau réel de prise en charge des fonctionnalités HDMI, DisplayPort, USB et CEC.
+- Identifier les fonctions qui ne peuvent pas être obtenues sans accessoire externe.
+- Évaluer la présence de FreeSync Premium Pro, G-SYNC natif/Ultimate ou technologie équivalente.
+- Vérifier la présence native de Reflex Analyzer lorsque pertinente.
+- Vérifier la prise en charge de périphériques haute fréquence par le hub intégré.
+- Rechercher les fonctions Ethernet, Wi-Fi, Bluetooth, S/PDIF et Ambilight intégrées.
+
+Objectif : trouver le meilleur appareil autonome, sans devoir multiplier les équipements.
+
+Classement B — Meilleur système complet et modulaire
+
+Rechercher les meilleures combinaisons d'équipements, même si elles nécessitent plusieurs appareils.
+
+Les systèmes peuvent notamment comprendre :
+
+- Un écran gaming ou téléviseur haut de gamme.
+- Un dock USB4 ou Thunderbolt.
+- Un hub USB 3.x ou supérieur.
+- Un KVM HDMI/DisplayPort/USB.
+- Un switch ou une matrice HDMI.
+- Un contrôleur ou pont HDMI-CEC.
+- Un processeur vidéo ou upscaler.
+- Un extracteur audio HDMI/eARC.
+- Un DAC, une interface audio ou un amplificateur.
+- Une télécommande programmable ou un contrôleur réseau.
+- Un contrôleur USB HID ou système de traduction de commandes.
+- Un logiciel ou une interface de contrôle du moniteur.
+- Des adaptateurs et accessoires assurant une fonction réellement vérifiée.
+- Un équipement de mesure de latence.
+- Un hub, dock ou KVM validé pour les périphériques haute fréquence.
+- Des récepteurs ou dongles spécifiques à certains périphériques.
+- Des équipements réseau ou Bluetooth.
+- Un système d'éclairage ambiant réactif lorsque pertinent.
+
+Pour chaque système proposé :
+
+1. Fournir la liste complète des équipements et leurs références exactes.
+2. Présenter un schéma des connexions physiques, des liaisons USB, des flux vidéo/audio et des commandes.
+3. Identifier quel équipement apporte chaque fonctionnalité.
+4. Vérifier les compatibilités entre les différents composants.
+5. Identifier les éventuelles dégradations de débit, résolution, fréquence, HDR, VRR, audio ou latence.
+6. Vérifier les restrictions HDCP, EDID, CEC, USB et KVM.
+7. Distinguer les fonctions théoriquement possibles de celles effectivement validées.
+8. Calculer le prix total de la configuration.
+9. Évaluer l'encombrement, l'alimentation, la consommation et la complexité de fonctionnement.
+10. Étudier la facilité de maintenance, de remplacement et d'évolution de chaque composant.
+11. Vérifier la disponibilité d'au moins deux ports USB-A 3.x ou supérieurs dans le système complet.
+12. Vérifier qu'aucun port USB de données accessible à l'utilisateur sur les équipements retenus n'est limité à USB 1.x ou 2.0.
+13. Vérifier l'absence de ports USB-A exclusivement dédiés à la recharge non conformes.
+14. Autoriser et signaler les éventuels ports USB-C exclusivement dédiés à la recharge, sans les compter comme ports de données.
+15. Identifier les liaisons USB upstream et downstream.
+16. Évaluer le contrôle des périphériques et appareils sources.
+17. Vérifier les possibilités d'accès aux fonctions internes du moniteur.
+18. Évaluer les possibilités de télémétrie et de personnalisation.
+19. Vérifier les fonctions de conversion et de transmission de commandes.
+20. Identifier les protocoles réellement utilisés entre les composants.
+21. Vérifier les fonctionnalités simultanément disponibles.
+22. Documenter les éventuelles restrictions imposées par les logiciels, firmwares et pilotes.
+23. Déterminer les fonctions recherchées qui demeurent impossibles malgré l'architecture modulaire.
+24. Vérifier la compatibilité avec NVIDIA Reflex, Reflex Analyzer et les outils équivalents.
+25. Tester ou documenter la préservation des fréquences d'interrogation de 2 000, 4 000 et 8 000 Hz à travers les équipements intermédiaires.
+26. Identifier les éventuels gains ou pertes de latence apportés par la configuration modulaire.
+27. Vérifier les possibilités de connexion et de contrôle par Ethernet, Wi-Fi et Bluetooth.
+28. Évaluer la compatibilité des fonctions S/PDIF et des systèmes Ambilight ou d'éclairage ambiant équivalent.
+29. Vérifier les coûts et contraintes des composants supplémentaires nécessaires pour obtenir ces fonctions.
+
+Règle spécifique de conformité du classement B
+
+La configuration modulaire complète doit comporter au moins deux ports USB-A de données USB 3.x ou supérieurs, fournis par un ou plusieurs composants sélectionnés.
+
+Il n'est pas nécessaire que chaque composant possède une connectique USB de données. Les équipements purement HDMI, DisplayPort, audio, réseau ou de contrôle restent admissibles s'ils n'introduisent pas d'autre incompatibilité.
+
+Tous les ports USB de données accessibles à l'utilisateur et effectivement présents sur les composants sélectionnés doivent néanmoins respecter les exigences de conformité définies aux sections 9 et 18.
+
+Les ports USB-C exclusivement dédiés à la recharge sont autorisés, doivent être identifiés et ne peuvent pas être comptabilisés parmi les ports USB de données exigés.
+
+Les éventuels ports USB de données non conformes doivent être identifiés, même lorsqu'ils n'interviennent pas directement dans le fonctionnement principal du système.
+
+Objectif : obtenir les meilleures fonctionnalités cumulées, même si aucun écran ne les intègre toutes nativement.
+
+Ne pas privilégier systématiquement un système modulaire : démontrer que ses avantages justifient les appareils supplémentaires.
+
+Comparaison finale des deux classements
+
+Comparer les gagnants des classements A et B selon :
+
+- Compatibilité réelle.
+- Qualité d'image et performances gaming.
+- Connectique et possibilités d'extension.
+- Contrôle des consoles et périphériques.
+- Qualité audio.
+- Nombre de fonctionnalités disponibles simultanément.
+- Prix global.
+- Facilité d'installation.
+- Ergonomie quotidienne.
+- Fiabilité.
+- Pérennité et évolutivité.
+- Conformité USB 3.x.
+- Identification distincte des ports USB-C exclusivement dédiés à la recharge.
+- Fonctionnalités USB-B upstream.
+- Contrôle logiciel et matériel du moniteur.
+- Accès aux configurations et mémoires internes exposées.
+- Personnalisation gaming et télémétrie.
+- Prise en charge réelle des fonctionnalités avancées de chaque interface.
+- Capacités de contrôle HDMI-CEC et de transmission de commandes.
+- Possibilités de communication bidirectionnelle.
+- Limites techniques restant impossibles à contourner avec les équipements proposés.
+- Certifications FreeSync et G-SYNC.
+- Compatibilité NVIDIA Reflex et Reflex Analyzer.
+- Mesure effective de la latence de bout en bout.
+- Compatibilité avec les périphériques à haute fréquence d'interrogation.
+- Latence et stabilité après interposition des hubs, docks et KVM.
+- Fonctions Ethernet, Wi-Fi et Bluetooth.
+- Sorties S/PDIF.
+- Fonctionnalités Ambilight ou systèmes équivalents.
+
+Appliquer la même pondération générale de la section 18 aux deux classements, mais présenter séparément les notes de chaque catégorie.
+
+Les accessoires nécessaires au classement B doivent être intégralement comptabilisés dans son coût et dans son évaluation.
+
+Ne pas comparer un écran seul à un système complet en attribuant au premier des fonctions qu'il ne possède pas ou en omettant les coûts et limitations du second.
+
+Verdicts demandés
+
+Fournir explicitement les dix verdicts d'origine :
+
+- Le meilleur écran tout-en-un.
+- Le meilleur téléviseur gaming polyvalent.
+- Le meilleur moniteur gaming polyvalent.
+- Le meilleur Smart Monitor.
+- Le meilleur système modulaire complet.
+- Le meilleur rapport fonctionnalités/prix.
+- Le meilleur système pour PS4/PS5/Xbox.
+- Le meilleur système pour PC/Mac/Linux.
+- Le meilleur système pour une utilisation multiplateforme simultanée.
+- La meilleure solution spécifique pour ma PS4 Slim actuellement bloquée.
+
+Verdicts spécialisés supplémentaires :
+
+- Le meilleur écran ou système pour NVIDIA Reflex Analyzer et la mesure de latence.
+- Le meilleur écran ou système pour les souris et claviers à 2 000–8 000 Hz.
+- Le meilleur système KVM permettant de conserver la faible latence et les fonctionnalités avancées des périphériques.
+- Le meilleur appareil combinant gaming, Ethernet, Wi-Fi, Bluetooth et S/PDIF.
+- Le meilleur téléviseur ou écran intégrant Ambilight ou une solution d'éclairage ambiant équivalente.
+
+20. Présentation des conclusions
+
+Commencer par un résumé des conclusions les plus importantes.
+
+Présenter ensuite les recherches et résultats techniques par domaine.
+
+Fournir des tableaux suffisamment détaillés pour comparer les équipements sans devoir ouvrir chaque fiche constructeur.
+
+Citer les sources principales pour chaque résultat significatif et documenter les éventuelles contradictions.
+
+Ne pas masquer les compromis, les limitations ou les fonctionnalités impossibles.
+
+Lorsque la recherche exhaustive ne peut pas être achevée, présenter clairement ce qui a été vérifié, ce qui reste à étudier et les limites de couverture. Ne pas qualifier le catalogue d'exhaustif sans justification.
+
+Présenter explicitement la hiérarchie des bonus secondaires et des bonus plus importants, en montrant comment ils ont été pris en compte dans les notes sans modifier la pondération générale.
+
+Pour les fonctions de latence et de fréquence d'interrogation, présenter les mesures réelles, les conditions de test, les limites des équipements et les écarts entre fonctionnement direct et fonctionnement à travers les équipements intermédiaires.
+
+L'objectif final est de trouver le système réellement le plus polyvalent, performant, fiable et évolutif, et pas simplement celui qui possède le plus grand nombre de logos, de ports ou de fonctions marketing sur sa fiche technique.
+
+Je recherche une compatibilité fonctionnelle réelle, une connectique complète, des possibilités avancées de contrôle et de personnalisation, ainsi qu'une prise en charge maximale des fonctionnalités des interfaces et protocoles utilisés, avec des preuves concrètes de fonctionnement.
