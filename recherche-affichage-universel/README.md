@@ -1,6 +1,6 @@
 # Recherche exhaustive des écrans et systèmes d'affichage universels
 
-> **Statut :** dossier documentaire initial, en cours de constitution — 7 novembre 2026.
+> **Statut :** prompt de référence **v2.2 intégralement fusionné**, sous revue dans la PR #4 — 7 novembre 2026.
 >
 > **Visibilité :** ce dépôt GitHub est **public**. Ne publier ni secrets, identifiants, coordonnées privées, sauvegardes personnelles, ni détails matériels personnels non approuvés.
 
@@ -10,17 +10,28 @@ Concevoir une recherche mondiale, historique et actuelle sur les écrans, télé
 
 Ne pas confondre fonction annoncée, implémentée, mesurée, compatible sous conditions, non documentée et incompatible. Vérifier les fonctions **simultanément exploitables** et les restrictions de toute la chaîne.
 
+## Prompt de référence à utiliser
+
+**[VERSION-2.2-FUSIONNEE.md — Cahier des charges intégral et autonome](VERSION-2.2-FUSIONNEE.md)**
+
+Ce fichier contient directement les 20 sections du cahier v2.0, les 15 amendements A1–A15 et les 7 propositions supplémentaires validées (3, 5, 6, 7, 8, 9 et 10). Il n'est plus nécessaire de juxtaposer plusieurs documents pour utiliser le prompt.
+
+La [validation de conservation v2.2](RAPPORT-CONSERVATION-V2.2.md) documente les contrôles de contenu effectués. La revue indépendante et la fusion de la PR restent à faire.
+
 ## Sources et état du cahier des charges
 
-- [**Index des versions et de leur provenance**](INDEX-VERSIONS.md) : distinction entre « original », v1 (nom d'archivage), v2.0 et v2.1.
+- [**Index des versions et de leur provenance**](INDEX-VERSIONS.md) : distinction entre « original », v1 (nom d'archivage), v2.0, v2.1 et v2.2.
 - [**Original fourni / prompt prédécesseur**](VERSION-1-PREDECESSEUR.md) : les 20 sections du premier grand texte de comparaison, historiquement avec exigence USB 3.x.
 - [**Version 2.0 consolidée**](VERSION-2.0-CONSOLIDEE.md) : les 20 sections du prompt actualisé, avec USB 2.0 minimum et les classements A/B.
-- [**Version 2.1 — Amendements A1–A15**](VERSION-2.1-AMENDEMENTS.md) : correctifs approuvés à lire **en plus** de la version 2.0.
+- [**Version 2.1 — Amendements A1–A15**](VERSION-2.1-AMENDEMENTS.md) : document historique des correctifs approuvés.
+- [**Version 2.2 — Ajouts validés**](VERSION-2.2-AJOUTS-VALIDES.md) : source de traçabilité des sept nouvelles propositions intégrées.
+- [**Version 2.2 — Fusion autonome**](VERSION-2.2-FUSIONNEE.md) : version consolidée active de référence.
+- [**Rapport de conservation v2.2**](RAPPORT-CONSERVATION-V2.2.md) : contrôles de la fusion.
 - [**Rapport des propositions du 7 novembre**](RAPPORT-PROPOSITIONS-20261107.md) : dernières validations (3/5/6/7/8/9/10) et toutes les propositions en attente.
 - [**Rapport des échanges**](JOURNAL-ECHANGES-20261107.md) : déroulement chronologique des décisions.
 - [**Décisions**](DECISIONS.md), [**propositions en attente**](PROPOSITIONS_EN_ATTENTE.md) et [**registre des preuves**](REGISTRE_DES_PREUVES.md).
 
-**Précaution historique :** le texte du prédécesseur est bien archivé, mais une version « originale » encore plus ancienne et distincte n'a pas été établie. La comparaison octet par octet avec un export de conversation n'a pas été possible. Les propositions validées après rédaction des amendements v2.1 sont consignées, mais restent à intégrer textuellement dans une révision future.
+**Précaution historique :** le texte du prédécesseur est bien archivé, mais une version « originale » encore plus ancienne et distincte n'a pas été établie. La comparaison octet par octet avec un export de conversation n'a pas été possible. Les propositions validées après rédaction des amendements v2.1 ont été intégrées directement dans la v2.2 ; les propositions non arbitrées restent exclues comme obligations nouvelles.
 
 ## Invariants validés
 
