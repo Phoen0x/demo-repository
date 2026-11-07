@@ -10,7 +10,7 @@ Date : 7 novembre 2026. Dépôt : `Phoen0x/demo-repository`, PR #4, branche `doc
 | `VERSION-2.1-AMENDEMENTS.md` | `667f1f56037eb1a8d64a441726061ed79df6ad6d` |
 | `VERSION-2.2-AJOUTS-VALIDES.md` | `49871269d1d9706cd6d150e7b81e7e20ec9ddda9` |
 
-Cible : `VERSION-2.2-FUSIONNEE.md` — blob SHA `030eedfc6c7f4e43f2022c1338c8e4af45269b34`, 81441 caractères Unicode.
+Cible : `VERSION-2.2-FUSIONNEE.md` — blob SHA `5bcfc987cd32c90654b1dcca67858f0fe53ed241`, 81607 caractères Unicode.
 
 ## Contrôles automatisés sur le fichier relu depuis GitHub
 
@@ -21,6 +21,7 @@ Cible : `VERSION-2.2-FUSIONNEE.md` — blob SHA `030eedfc6c7f4e43f2022c1338c8e4a
 - Le minimum **USB 2.0** des ports utilisateur de données est conservé.
 - Les **six pondérations 25/20/20/20/10/5** et les **vingt verdicts** demeurent dans le prompt.
 - Les principes de conservation A1–A15 et la séparation des fonctionnalités vérifiées, conditionnelles, non conformes ou inconnues sont maintenus.
+- La phrase transitoire historique « Ces dispositions complètent la v2.0 » a été adaptée dans la conclusion de la v2.2 pour préciser que **le prompt est désormais autonome**. Ce changement éditorial concerne uniquement le préambule conclusif, et non les quinze corps d'amendements.
 
 ## Points explicitement NON arbitré(s)
 
