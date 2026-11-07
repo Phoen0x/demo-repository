@@ -242,3 +242,236 @@ Cette précision ne modifie pas l'exigence USB 2.0 minimum des ports de données
 
 ---
 
+## A6. Complément à la section 9 — Interférences USB 3.x et récepteurs radio 2,4 GHz
+
+Étudier explicitement les interférences électromagnétiques pouvant affecter les périphériques sans fil lorsque leurs récepteurs sont utilisés à proximité d'équipements USB 3.x.
+
+Rechercher notamment :
+
+- Les perturbations dans la bande 2,4 GHz.
+- Les interférences générées par certains câbles USB SuperSpeed.
+- Les perturbations liées aux SSD et stockages externes.
+- La proximité entre ports USB et dongles.
+- Les effets du blindage des câbles.
+- Les effets du blindage des boîtiers et hubs.
+- L'influence de l'emplacement physique des récepteurs.
+- Les interférences entre plusieurs dongles.
+- Les différences entre ports USB 2.0 et USB 3.x.
+- L'effet des rallonges USB.
+- L'effet de l'éloignement physique du récepteur.
+- L'influence de l'activité simultanée des périphériques USB.
+
+### Tests à comparer
+
+Lorsque les données sont disponibles, comparer :
+
+1. Dongle directement connecté au PC.
+2. Dongle connecté à un port USB 2.0.
+3. Dongle connecté à un port USB 3.x.
+4. Dongle connecté à un hub USB 2.0.
+5. Dongle connecté à un hub USB 3.x.
+6. Dongle derrière un KVM.
+7. Dongle connecté avec une rallonge USB.
+8. Dongle placé près d'un SSD USB 3.x actif.
+9. Deux dongles utilisés simultanément.
+10. Récepteur partagé entre plusieurs périphériques.
+11. Périphériques 2K, 4K et 8K lorsque pertinents.
+
+Mesurer ou rechercher :
+
+- Latence.
+- Jitter.
+- Intervalles entre rapports.
+- Pertes d'événements.
+- Déconnexions.
+- Stabilité radio.
+- Sensibilité aux interférences.
+- Distance maximale fiable.
+- Performances sous charge.
+
+Ne pas conclure qu'USB 3.x offre nécessairement une meilleure expérience pour un dongle HID que l'USB 2.0.
+
+La sélection doit reposer sur les performances réellement obtenues avec les périphériques concernés.
+
+---
+
+## A7. Complément à la section 10 — KVM, pilotes et reconnexions
+
+Pour chaque KVM et système de partage des périphériques, vérifier indépendamment le fonctionnement selon les appareils hôtes et leurs systèmes d'exploitation.
+
+Étudier :
+
+- Windows.
+- Linux.
+- macOS.
+- PlayStation.
+- Xbox.
+- Nintendo.
+- Android.
+- GrapheneOS.
+- iOS/iPadOS lorsque pertinent.
+
+Vérifier les différences selon :
+
+- Les pilotes.
+- Les versions des systèmes.
+- Les firmwares.
+- Les contrôleurs USB.
+- Les modes d'émulation HID.
+- Les modes de transparence USB.
+- Les logiciels propriétaires.
+- Les périphériques nécessitant une configuration spécifique.
+
+### Essais après basculement
+
+Ne pas limiter les tests à la reconnaissance initiale.
+
+Vérifier :
+
+1. La reconnexion automatique.
+2. Le délai de reconnexion.
+3. La conservation des paramètres.
+4. La conservation des fréquences de rapports.
+5. Les changements d'identité USB.
+6. La perte éventuelle d'interfaces HID.
+7. Le fonctionnement des dongles propriétaires.
+8. Le comportement des périphériques composites.
+9. La nécessité éventuelle de débrancher ou réinitialiser un périphérique.
+10. La stabilité après plusieurs basculements successifs.
+11. Le fonctionnement en sortie de veille.
+12. Les différences selon le système d'exploitation.
+
+Distinguer les limitations propres au KVM des limitations provenant de l'hôte, des pilotes ou du périphérique.
+
+---
+
+## A8. Complément à la section 11 — Mesures de latence audio et microphone
+
+Pour les systèmes audio et microphones, rechercher séparément :
+
+- Latence de sortie audio.
+- Latence d'entrée microphone.
+- Latence du transport du microphone.
+- Latence audio aller-retour lorsque pertinente.
+- Latence de conversion analogique-numérique.
+- Latence de conversion numérique-analogique.
+- Latence ajoutée par les périphériques USB.
+- Latence ajoutée par les connexions Bluetooth.
+- Latence ajoutée par les dongles RF.
+- Latence ajoutée par les équipements HDMI, ARC/eARC ou intermédiaires audio.
+- Variations selon les codecs, fréquences d'échantillonnage et tailles de buffer.
+
+Préciser la méthode de mesure et les conditions des essais.
+
+Ne pas comparer directement des mesures de latence audio réalisées avec des méthodes incompatibles.
+
+Distinguer la disponibilité d'une entrée microphone, sa reconnaissance par l'appareil source et son fonctionnement effectif dans les communications vocales et les jeux.
+
+---
+
+## A9. Complément à la section 12 — Contrôle logiciel multiplateforme
+
+Pour chaque moniteur ou équipement configurable, vérifier séparément les possibilités de contrôle sous :
+
+- Windows.
+- Linux.
+- macOS.
+
+Préciser les versions des systèmes réellement étudiées.
+
+Rechercher :
+
+- Les logiciels constructeurs.
+- Les logiciels libres et open source.
+- Les outils DDC/CI.
+- Les interfaces MCCS.
+- Les interfaces USB HID.
+- Les API locales.
+- Les interfaces réseau.
+- Les logiciels compatibles avec les KVM.
+- Les possibilités de contrôle de l'OSD.
+- La lecture des paramètres.
+- La modification des paramètres.
+- La gestion des profils.
+- La sauvegarde des configurations.
+- La restauration des configurations.
+- Les mises à jour firmware.
+- Les diagnostics accessibles.
+- L'automatisation locale.
+
+Distinguer les fonctionnalités proposées officiellement, celles réellement testées et celles rendues possibles par des outils communautaires.
+
+Ne pas présumer qu'une application disponible sous Windows possède un équivalent fonctionnel sous Linux ou macOS.
+
+---
+
+## A10. Complément à la section 13 — Personnalisation de l'éclairage ambiant
+
+Pour Ambilight, Ambiglow, Hue, Govee et les solutions comparables, rechercher également :
+
+- Les profils lumineux propres aux jeux.
+- Les profils lumineux propres aux films.
+- Les profils propres aux différentes entrées.
+- Les profils personnalisés.
+- Les profils statiques et dynamiques.
+- La synchronisation avec le contenu vidéo.
+- La synchronisation avec le contenu audio.
+- Les possibilités de commutation automatique.
+- Les profils mémorisables.
+- Les réglages de couleur, intensité et zones.
+- La disponibilité du contrôle local.
+- L'utilisation sans compte cloud lorsque possible.
+
+Vérifier quelles fonctions restent disponibles selon la résolution, la fréquence, le HDR, le VRR et les limitations HDCP.
+
+Ne pas confondre les fonctionnalités directement intégrées à l'écran avec celles nécessitant un équipement externe.
+
+---
+
+## A11. Complément à la section 8 — Validation historique du HDMI-CEC sur PS4
+
+Les démonstrations historiques publiées par stb-tester et les autres sources techniques doivent être analysées fonction par fonction.
+
+L'existence d'un contrôle HDMI-CEC sur une PlayStation ne permet pas de conclure automatiquement que toutes les commandes système sont accessibles.
+
+Vérifier séparément, avec des preuves propres à chaque fonction :
+
+1. La mise sous tension.
+2. La mise en veille.
+3. La navigation dans les menus.
+4. La sélection d'un élément.
+5. Le retour arrière.
+6. L'accès aux fonctions multimédias.
+7. La validation de l'écran de connexion utilisateur.
+8. Le franchissement de l'écran demandant d'appuyer sur PS.
+9. La transmission effective de l'équivalent de la touche PS.
+10. L'association initiale d'une DualShock 4.
+11. Le fonctionnement sans manette déjà associée.
+12. Le fonctionnement sur une PS4 Slim.
+13. Le fonctionnement avec les firmwares ultérieurs.
+14. Le fonctionnement avec HDMI-CEC préalablement activé.
+15. Le fonctionnement lorsque HDMI-CEC est désactivé.
+
+### Exigence de reproductibilité
+
+Lorsqu'une fonction a été historiquement démontrée, préciser :
+
+- La date.
+- La source.
+- La console exacte.
+- Le firmware lorsqu'il est identifiable.
+- L'équipement HDMI-CEC utilisé.
+- Les commandes transmises.
+- Les résultats observés.
+- Les conditions préalables.
+- Les restrictions.
+- La possibilité de reproduire l'essai aujourd'hui.
+
+Ne jamais étendre les résultats obtenus sur une génération ou un firmware à toutes les PS4.
+
+Distinguer une connexion utilisateur réussie, la transmission réelle d'une touche PS et l'association Bluetooth d'une manette : ce sont des opérations différentes.
+
+Les solutions proposées pour la PS4 Slim actuellement bloquée doivent privilégier les essais non destructifs et ne doivent pas présenter une simple possibilité théorique comme une résolution confirmée.
+
+---
+
