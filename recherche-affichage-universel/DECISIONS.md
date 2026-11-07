@@ -52,7 +52,15 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 | 9 | Registre structuré des preuves et export CSV/JSON/XLSX | **VALIDÉ** |
 | 10 | Frontière de Pareto et comparatifs d'efficacité réelle | **VALIDÉ** |
 
-**Ne pas déclarer les sept propositions ci-dessus déjà fusionnées dans le prompt v2.1.** Elles sont approuvées pour une révision future, mais restent à intégrer textuellement.
+**Statut historique :** les sept propositions ci-dessus ne sont pas présentes dans les seuls amendements v2.1 ; elles sont désormais **intégrées directement à la v2.2 fusionnée**. Les propositions 1, 2, 4 demeurent non approuvées.
+
+## Révision v2.2 — fusion exécutée et vérifiée
+
+- **Version active du prompt :** [VERSION-2.2-FUSIONNEE.md](VERSION-2.2-FUSIONNEE.md), contenant directement les 20 sections, les amendements A1–A15 et les propositions approuvées 3/5/6/7/8/9/10.
+- **Sources de consolidation :** [VERSION-2.0-CONSOLIDEE.md](VERSION-2.0-CONSOLIDEE.md), [VERSION-2.1-AMENDEMENTS.md](VERSION-2.1-AMENDEMENTS.md), [VERSION-2.2-AJOUTS-VALIDES.md](VERSION-2.2-AJOUTS-VALIDES.md).
+- **Contrôle :** [RAPPORT-CONSERVATION-V2.2.md](RAPPORT-CONSERVATION-V2.2.md), avec 20/20 sections, 15/15 amendements et 7/7 propositions conservés.
+- **En suspens :** USB-A recharge uniquement, méthode en cinq phases, taxonomie des dalles, propositions supplémentaires 1, 2, 4.
+- Les versions et décisions historiques restent présentes sans modification rétroactive.
 
 ## Archivage documentaire du 7 novembre 2026
 
