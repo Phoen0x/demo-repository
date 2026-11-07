@@ -1013,3 +1013,331 @@ Ne pas confondre une fonction théoriquement présente dans une norme avec une c
 
 Ne pas supposer que les fonctions NVIDIA Reflex ou les fréquences d'interrogation élevées des périphériques PC peuvent résoudre le problème d'association initial de cette PS4 Slim.
 
+16. Résultats attendus
+
+Je souhaite recevoir :
+
+1. Un état des lieux technique présentant les fonctions réalisables, conditionnelles et impossibles avec les technologies actuelles.
+2. Un catalogue aussi complet que possible des écrans, téléviseurs et équipements pertinents, sans le limiter arbitrairement à cinq références.
+3. Un tableau comparatif détaillé des modèles retenus.
+4. Une matrice de compatibilité par appareil, port, résolution, fréquence et fonctionnalité.
+5. Un classement par catégorie : compatibilité, gaming, image, connectivité, contrôle, rapport qualité/prix et système universel.
+6. Une sélection des meilleurs systèmes tout-en-un et modulaires, avec références exactes de tous les équipements nécessaires.
+7. Les prix en euros TTC en France, leur disponibilité et, si pertinent, les offres d'occasion.
+8. Les limitations et incompatibilités explicitement documentées pour chaque solution.
+9. Un score pondéré et justifié, distinguant les fonctionnalités vérifiées des fonctionnalités simplement annoncées.
+10. Les meilleures options pour mon cas spécifique de PS4 Slim, indépendamment du classement général.
+11. Une vérification explicite du respect de l'exigence d'au moins deux ports USB-A 3.x ou supérieurs et de la conformité des ports USB de données accessibles à l'utilisateur sur les équipements évalués.
+12. Une analyse des ports USB-B upstream et de leurs fonctionnalités réelles.
+13. Un bilan des possibilités de contrôle logiciel et matériel des écrans.
+14. Une analyse des possibilités d'accès aux configurations, aux interfaces de gestion et aux mémoires internes effectivement exposées.
+15. Une comparaison des fonctionnalités de télémétrie, HUD, viseurs, cheats et outils gaming personnalisables.
+16. Une évaluation détaillée de la prise en charge des fonctionnalités des différentes normes et protocoles.
+17. Une identification des fonctionnalités utilisables simultanément et des conflits entre celles-ci.
+18. Une comparaison des possibilités de communication bidirectionnelle et de contrôle des appareils sources.
+19. Une évaluation de la compatibilité réelle par fonctionnalité, interface et famille d'appareils, sans pourcentage global trompeur.
+20. Une identification explicite des ports USB de données limités à USB 1.x/2.0, des ports USB-A exclusivement dédiés à la recharge non conformes, et des ports USB-C « recharge uniquement » autorisés mais signalés séparément.
+21. Un inventaire des spécifications non documentées, des recherches complémentaires effectuées et des candidats dont la conformité reste indéterminée.
+22. Une comparaison des écrans FreeSync Premium Pro, G-SYNC natifs, G-SYNC Ultimate, G-SYNC Compatible et technologies équivalentes.
+23. Une analyse de la compatibilité NVIDIA Reflex, Reflex Analyzer et des solutions concurrentes ou comparables.
+24. Une comparaison des performances mesurées des périphériques à 2 000, 4 000 et 8 000 Hz, avec et sans hubs, docks et KVM.
+25. Un inventaire de la connectivité Ethernet, Wi-Fi, Bluetooth et des possibilités de contrôle local.
+26. Une comparaison des systèmes S/PDIF, Ambilight et éclairage ambiant équivalent, en distinguant les fonctionnalités natives et externes.
+27. Une évaluation de la latence de bout en bout, des intervalles de remontée d'événements, de leur stabilité et de leur compatibilité avec les différents appareils sources.
+
+Préciser les variantes matérielles, révisions et versions de firmware lorsque celles-ci influencent la compatibilité.
+
+17. Exigences de rigueur
+
+Ne jamais affirmer qu'un appareil est compatible à 100 % sans avoir défini et vérifié ce que cette expression signifie.
+
+L'objectif est de maximiser la compatibilité fonctionnelle réelle, pas simplement la compatibilité physique des connecteurs.
+
+Pour chaque appareil et configuration, distinguer :
+
+- Les fonctions officiellement spécifiées.
+- Les fonctions matériellement implémentées.
+- Les fonctions effectivement testées.
+- Les fonctionnalités simultanément utilisables.
+- Les fonctions optionnelles de chaque norme.
+- Les fonctions nécessitant des accessoires.
+- Les fonctions dépendant d'un pilote ou d'un logiciel.
+- Les restrictions propres aux appareils sources.
+- Les fonctions indisponibles.
+- Les incompatibilités confirmées.
+- Les caractéristiques non documentées.
+
+Gestion des informations inconnues et des contradictions
+
+Ne jamais considérer une caractéristique non documentée comme automatiquement conforme ou non conforme.
+
+Distinguer systématiquement quatre statuts :
+
+- Conforme confirmé : les exigences sont satisfaites avec des preuves suffisantes.
+- Non conforme confirmé : une incompatibilité ou une insuffisance est démontrée.
+- Conformité indéterminée : les données disponibles sont insuffisantes, ambiguës ou contradictoires pour trancher.
+- Conformité conditionnelle : les exigences sont satisfaites uniquement dans certaines conditions précisément documentées.
+
+Ne jamais transformer une absence de preuve en preuve d'absence.
+
+Une caractéristique non mentionnée dans une fiche commerciale ne doit pas être automatiquement considérée comme absente.
+
+Inversement, une fonctionnalité annoncée sans précision suffisante ne doit pas être considérée comme confirmée.
+
+En présence d'informations contradictoires, rechercher leur origine, les versions matérielles ou logicielles concernées et les conditions des essais avant de trancher.
+
+Distinguer une incompatibilité démontrée d'une impossibilité de vérifier la compatibilité.
+
+Conserver les candidats intéressants lorsque les informations disponibles ne permettent pas encore de statuer, sans leur attribuer une conformité présumée.
+
+Rigueur sur les technologies de latence et les fréquences élevées
+
+Ne jamais considérer qu'un appareil prend en charge NVIDIA Reflex Analyzer du seul fait qu'il est compatible G-SYNC.
+
+Ne pas considérer que la prise en charge de Reflex par un jeu équivaut à la présence d'un analyseur matériel dans l'écran.
+
+Ne pas supposer qu'un port USB 3.x, un hub, un dock ou un KVM conserve automatiquement les performances d'un périphérique à 8 000 Hz.
+
+Ne pas confondre :
+
+- FPS.
+- Fréquence de rafraîchissement vidéo.
+- Fréquence d'interrogation ou de remontée d'événements HID.
+- Débit USB.
+- Fréquence radio.
+- Fréquence d'échantillonnage audio.
+- Débit Ethernet ou Wi-Fi.
+- Latence réseau.
+- Latence système.
+- Latence de bout en bout.
+
+Une fréquence d'interrogation annoncée ne constitue pas une preuve de stabilité ni de faible latence.
+
+Vérifier l'efficacité réelle des solutions de réduction de latence, les conditions nécessaires, les compatibilités et les éventuels compromis.
+
+Ne pas inventer d'équivalence entre des technologies différentes simplement parce qu'elles utilisent toutes les termes « faible latence » ou « gaming ».
+
+Évaluer explicitement dans quelle mesure chaque solution se rapproche de 100 % des fonctionnalités recherchées et techniquement réalisables.
+
+Ne pas supposer qu'un connecteur HDMI, DisplayPort ou USB-C permet automatiquement d'exploiter toutes les fonctionnalités de sa norme.
+
+L'évaluation de la compatibilité à 100 % doit reposer sur une liste explicite de fonctionnalités applicables, vérifiées individuellement pour chaque appareil source et chaque liaison.
+
+Ne jamais utiliser un pourcentage global pour masquer une incompatibilité bloquante, une fonction indispensable absente ou une limitation affectant une famille d'appareils.
+
+Si aucun produit ne satisfait toutes les exigences, le dire explicitement et identifier :
+
+- Les fonctions manquantes.
+- Les conflits entre normes ou protocoles.
+- Les limites imposées par les appareils sources.
+- Les éventuels accessoires permettant de résoudre chaque limitation.
+- Les fonctions qui demeurent impossibles malgré ces accessoires.
+
+Séparer les fonctionnalités indispensables, les fonctions appréciables et les options de confort lors du classement, sans éliminer arbitrairement un excellent produit pour l'absence d'une fonction secondaire.
+
+Exception : respecter strictement les exigences explicitement déclarées obligatoires, notamment la disponibilité d'au moins deux ports USB-A de données USB 3.x ou supérieurs et l'absence de ports USB de données accessibles à l'utilisateur limités à USB 1.x ou USB 2.0 sur les équipements retenus dans les classements principaux.
+
+Les ports USB-C exclusivement dédiés à la recharge sont autorisés, sous réserve d'être signalés explicitement et de ne jamais être comptabilisés comme des ports de données.
+
+Les ports USB-A exclusivement dédiés à la recharge restent soumis aux exigences spécifiques de conformité USB-A définies en section 9.
+
+Les ports préexistants des consoles, ordinateurs et autres appareils sources ne sont pas concernés par cette exigence de sélection des équipements.
+
+La rétrocompatibilité USB 1.x/2.0 des ports USB modernes reste autorisée.
+
+Ne pas considérer qu'une fonction USB temporairement limitée par un mode de fonctionnement particulier signifie automatiquement que le port est matériellement limité à USB 2.0.
+
+Distinction entre conformité individuelle et conformité de l'architecture
+
+Ne pas confondre l'obligation de conformité des ports USB présents avec une obligation pour chaque composant modulaire de posséder des ports USB.
+
+Dans le classement B, un équipement ne possédant aucun port USB de données n'est pas non conforme pour cette seule raison. Seule la configuration complète doit satisfaire le nombre minimal de ports exigé.
+
+En revanche, la présence sur un composant sélectionné d'un port USB de données limité à USB 1.x ou USB 2.0 reste éliminatoire pour la configuration, sous réserve des exceptions explicitement autorisées.
+
+Ne jamais attribuer à un composant les capacités USB apportées par un autre composant : distinguer systématiquement conformité individuelle des ports présents et conformité globale de l'architecture.
+
+Ne pas favoriser systématiquement le modèle le plus récent ou le plus cher.
+
+18. Système de notation et pondération personnalisée
+
+Utiliser obligatoirement la pondération suivante pour le classement général :
+
+Critère| Pondération
+Compatibilité consoles et appareils| 25 %
+Qualité d'image et gaming| 20 %
+Connectique et fonctionnalités USB| 20 %
+Contrôle HDMI-CEC et KVM| 20 %
+Audio, personnalisation et ergonomie| 10 %
+Prix, fiabilité et évolutivité| 5 %
+Total| 100 %
+
+Méthode de calcul
+
+1. Attribuer une note de 0 à 10 pour chaque catégorie, selon des critères explicites et reproductibles.
+2. Calculer le score pondéré sur 100.
+3. Justifier les notes à partir des caractéristiques et mesures vérifiées.
+4. Identifier les fonctionnalités annoncées mais non vérifiées.
+5. Indiquer un niveau de confiance pour chaque évaluation : élevé, moyen ou faible.
+6. Ne jamais donner automatiquement la meilleure note à une norme plus récente.
+7. Évaluer les fonctions de chaque produit dans des conditions équivalentes.
+8. Distinguer les absences confirmées, les incompatibilités et les caractéristiques non documentées.
+9. Ne pas transformer une fonction non vérifiée en fonctionnalité confirmée pour augmenter artificiellement un score.
+10. Calculer les scores à partir des mêmes règles pour tous les candidats comparables.
+
+Attention : une moyenne pondérée élevée ne doit jamais masquer une incompatibilité bloquante.
+
+Une solution incapable d'assurer une fonction indispensable doit être explicitement signalée, même si son score global est excellent.
+
+Les limitations imposées par les consoles elles-mêmes ne doivent pas être attribuées à tort aux écrans.
+
+Hiérarchie des bonus supplémentaires
+
+Conserver obligatoirement les six pondérations générales ci-dessus.
+
+À l'intérieur des catégories existantes, attribuer une importance différenciée aux nouvelles préférences.
+
+Bonus secondaires :
+
+- AMD FreeSync Premium Pro.
+- NVIDIA G-SYNC natif, G-SYNC Ultimate ou technologie fonctionnellement équivalente.
+- Ethernet.
+- Wi-Fi.
+- Bluetooth.
+- S/PDIF.
+- Ambilight ou éclairage ambiant équivalent.
+
+Bonus plus importants :
+
+- NVIDIA Reflex Analyzer matériellement présent et fonctionnel.
+- Compatibilité effective avec NVIDIA Reflex et les fonctions de mesure/réduction de latence.
+- Technologies comparables permettant des gains de latence démontrés.
+- Mesure reproductible de la latence de bout en bout.
+- Prise en charge stable des périphériques à 2 000, 4 000 et 8 000 Hz.
+- Préservation de ces performances à travers les hubs, docks et KVM.
+- Faible jitter, faible latence et absence de pertes d'événements sur les périphériques concernés.
+
+Ces bonus doivent valoriser les produits qui les prennent réellement en charge, sans :
+
+- Modifier la pondération générale.
+- Ajouter de nouvelles exigences éliminatoires.
+- Pénaliser arbitrairement les appareils pour lesquels une fonction n'est pas applicable.
+- Confondre prise en charge annoncée et fonctionnement vérifié.
+- Survaloriser une certification au détriment de performances réelles meilleures.
+- Considérer qu'une fréquence plus élevée signifie automatiquement une meilleure expérience.
+
+Définir et justifier la répartition des sous-critères avant d'attribuer les notes, puis appliquer la même méthode à tous les candidats comparables.
+
+Les bonus plus importants doivent peser davantage que les bonus secondaires à l'intérieur des catégories pertinentes, sans prendre le pas sur les exigences essentielles de compatibilité et de qualité.
+
+Exigences obligatoires et conformité USB
+
+Les classements principaux doivent distinguer les configurations conformes des configurations non conformes.
+
+Exigences obligatoires :
+
+- Au moins deux ports USB-A de données capables de fonctionner en USB 3.x ou supérieur.
+- Tous les ports USB-A de données accessibles à l'utilisateur sur les équipements sélectionnés doivent prendre en charge USB 3.x ou supérieur.
+- Tous les ports USB-B upstream accessibles à l'utilisateur doivent prendre en charge USB 3.x ou supérieur.
+- Tous les ports USB-C proposant le transfert de données et accessibles à l'utilisateur doivent disposer d'une capacité de transfert de données USB 3.x ou supérieure, ou USB4/Thunderbolt selon les protocoles applicables.
+- Aucun port USB de données accessible à l'utilisateur et limité à USB 1.x/2.0 n'est accepté sur les équipements sélectionnés.
+- Les ports USB-A exclusivement dédiés à la recharge et dépourvus de transfert de données USB 3.x ou supérieur restent non conformes.
+- Les ports USB-C exclusivement dédiés à la recharge sont autorisés et ne constituent pas un motif d'exclusion. Ils doivent être signalés séparément et ne comptent pas parmi les ports USB de données.
+- Les débits temporaires inférieurs dus à un périphérique ancien, à un câble ou à un mode de fonctionnement particulier doivent être distingués de la capacité matérielle maximale du port.
+- Respect des exigences par l'ensemble des composants retenus dans chaque configuration, sans attribuer à un produit les fonctionnalités d'un autre.
+
+Application distincte aux classements A et B
+
+Pour le classement A, la conformité USB doit être vérifiée directement sur l'écran ou le téléviseur, avec au moins deux ports USB-A de données USB 3.x ou supérieurs intégrés.
+
+Pour le classement B, la conformité du nombre minimal de ports USB-A est évaluée au niveau du système complet. Les composants sans connectique USB de données sont autorisés.
+
+Pour tous les composants sélectionnés, contrôler individuellement la conformité des ports USB de données effectivement présents et accessibles à l'utilisateur.
+
+Ne pas considérer l'absence totale de ports USB sur un accessoire HDMI, audio, réseau ou de contrôle comme une non-conformité. En revanche, un composant disposant d'un port USB de données non conforme peut rendre la configuration complète non conforme.
+
+Les USB-C exclusivement dédiés à la recharge restent autorisés et signalés séparément ; ils ne contribuent jamais au minimum de deux USB-A de données.
+
+Les ports préexistants des appareils sources, tels que les consoles, ordinateurs et smartphones, ne sont pas concernés par cette règle de sélection.
+
+Les interfaces internes de fabrication ou de maintenance non accessibles à l'utilisateur doivent être signalées séparément.
+
+Les appareils et configurations non conformes peuvent faire l'objet d'un classement secondaire distinct, à titre informatif, mais ne doivent pas être présentés comme satisfaisant toutes les exigences obligatoires.
+
+Distinguer les exigences vérifiées, les incompatibilités démontrées et les caractéristiques indéterminées avant tout classement définitif.
+
+Traitement des candidats à conformité indéterminée
+
+Lorsqu'une exigence éliminatoire ne peut pas être vérifiée, ne pas déclarer automatiquement le candidat conforme ou non conforme.
+
+Effectuer d'abord des recherches complémentaires ciblées pour tenter de résoudre l'incertitude.
+
+Si les recherches restent insuffisantes, placer provisoirement le produit dans une catégorie distincte :
+
+« Candidats à conformité indéterminée ».
+
+Ces candidats ne doivent pas être présentés comme satisfaisant les exigences obligatoires tant que leur conformité n'est pas suffisamment établie.
+
+Ils ne doivent pas non plus être classés comme non conformes en l'absence de preuve d'incompatibilité.
+
+Ne pas leur appliquer automatiquement la même pénalité qu'aux produits dont la non-conformité est démontrée.
+
+Distinguer dans les scores les capacités vérifiées, les capacités non documentées et les limitations confirmées.
+
+Indiquer les incertitudes correspondantes sans inventer de valeurs, de mesures ou de caractéristiques.
+
+Lorsqu'une note complète ne peut pas être calculée de façon suffisamment justifiée, présenter les composantes vérifiées et signaler les composantes indéterminées, plutôt que de fabriquer un score artificiellement précis.
+
+Pour les candidats indéterminés, indiquer :
+
+- Les exigences dont la conformité est confirmée.
+- Les exigences dont la non-conformité est confirmée.
+- Les exigences dont la conformité reste inconnue.
+- Les recherches complémentaires effectuées.
+- Les sources utilisées.
+- Les éventuelles contradictions.
+- Les vérifications encore nécessaires.
+- Le niveau de confiance.
+- Les raisons justifiant leur maintien parmi les candidats à étudier.
+
+Réintégrer les candidats dans les classements principaux ou les classer comme non conformes dès que des éléments probants permettent de statuer.
+
+La distinction entre non-conformité démontrée et conformité non établie doit être conservée dans l'intégralité des tableaux, classements et conclusions.
+
+Évaluation complémentaire
+
+Présenter également :
+
+- Le score de compatibilité réelle avec chaque famille d'appareils.
+- Le nombre de fonctionnalités effectivement confirmées.
+- Le nombre de fonctions nécessitant des accessoires.
+- Le nombre de fonctions non documentées.
+- Les éventuelles incompatibilités critiques.
+- Le coût total pour obtenir les fonctionnalités annoncées.
+- Le niveau de confiance du résultat.
+- Le nombre et les caractéristiques des ports USB-A 3.x ou supérieurs.
+- La conformité de l'ensemble des ports USB de données accessibles à l'utilisateur.
+- Le nombre et les caractéristiques des ports USB-C exclusivement dédiés à la recharge, sans les comptabiliser comme ports de données.
+- La présence éventuelle de ports USB-B upstream.
+- Les possibilités de contrôle du moniteur par USB.
+- Les fonctionnalités de télémétrie réellement disponibles.
+- Les fonctions gaming personnalisables.
+- Le degré de prise en charge des fonctionnalités avancées de chaque interface.
+- Les fonctionnalités simultanément utilisables.
+- Les éventuels conflits entre fonctions.
+- Les fonctionnalités applicables et confirmées pour chaque appareil source.
+- Les limitations propres aux appareils sources et non imputables à l'écran.
+- Le nombre de caractéristiques dont la conformité reste indéterminée.
+- Les éventuelles recherches complémentaires nécessaires pour statuer.
+- La certification AMD FreeSync réellement obtenue.
+- La catégorie et l'implémentation NVIDIA G-SYNC réellement prise en charge.
+- La compatibilité avec Reflex et Reflex Analyzer.
+- La possibilité de mesurer et réduire la latence système.
+- Les fréquences d'interrogation effectivement validées.
+- La stabilité des périphériques à 2 000, 4 000 et 8 000 Hz.
+- Les capacités Ethernet, Wi-Fi et Bluetooth.
+- Les éventuelles sorties S/PDIF.
+- Les fonctions Ambilight ou éclairage ambiant comparable.
+
+Le classement général doit rester distinct des classements spécialisés, notamment pour le contrôle des consoles, la qualité d'image, les performances gaming et l'évolutivité.
+
