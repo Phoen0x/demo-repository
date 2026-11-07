@@ -35,7 +35,7 @@ USB : minimum matériel USB 2.0 pour les ports utilisateur de données ; deux US
 - **5C :** PS4 Slim et CEC : preuves indépendantes pour navigation, écran d'utilisateur, commande PS, association DualShock et dépendance au firmware ; examiner les démonstrations historiques stb-tester.
 - **5D :** HDMI 2.2/Ultra96 : vérifier débit certifié et négocié de la chaîne complète, pas seulement l'étiquette de norme.
 
-Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédigés pour v2.1. **Les textes complets des amendements et de v2.0 restent à importer littéralement dans GitHub.**
+Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédigés pour v2.1. **Les textes complets du prédécesseur, de v2.0 et des amendements v2.1 sont désormais archivés dans cette branche.** Voir [INDEX-VERSIONS.md](INDEX-VERSIONS.md) pour les limites d'authentification et l'absence de source prouvant une version originale distincte plus ancienne.
 
 ## Propositions supplémentaires — décision explicite du 7 novembre 2026
 
@@ -53,6 +53,14 @@ Ces 17 groupes de corrections sont couverts dans les amendements A1 à A15 rédi
 | 10 | Frontière de Pareto et comparatifs d'efficacité réelle | **VALIDÉ** |
 
 **Ne pas déclarer les sept propositions ci-dessus déjà fusionnées dans le prompt v2.1.** Elles sont approuvées pour une révision future, mais restent à intégrer textuellement.
+
+## Archivage documentaire du 7 novembre 2026
+
+- [Ancien prompt complet](VERSION-1-PREDECESSEUR.md) — titre source non numéroté ; la désignation « v1 » est une convention d'archivage.
+- [v2.0 complète](VERSION-2.0-CONSOLIDEE.md).
+- [v2.1 — amendements A1–A15 complets](VERSION-2.1-AMENDEMENTS.md).
+- [Rapport des dernières propositions](RAPPORT-PROPOSITIONS-20261107.md) et [journal des échanges](JOURNAL-ECHANGES-20261107.md).
+- **Aucun texte d'une version plus ancienne distincte (« original » antérieur au prédécesseur) n'a été retrouvé.**
 
 ## Gouvernance
 
