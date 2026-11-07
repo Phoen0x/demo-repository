@@ -12,12 +12,15 @@ Ne pas confondre fonction annoncée, implémentée, mesurée, compatible sous co
 
 ## Sources et état du cahier des charges
 
-- **v2.0** : cahier des charges consolidé original (20 sections), fourni dans la conversation source. **Texte intégral non encore importé dans ce dépôt.**
-- **v2.1** : v2.0 + amendements correctifs A1 à A15 déjà rédigés dans la conversation source. **Texte intégral non encore importé dans ce dépôt.**
-- **Prochaines révisions** : seules les améliorations expressément validées sont éligibles à intégration ; toute autre proposition demeure en attente.
-- Voir [DÉCISIONS.md](DECISIONS.md), [PROPOSITIONS_EN_ATTENTE.md](PROPOSITIONS_EN_ATTENTE.md) et [REGISTRE_DES_PREUVES.md](REGISTRE_DES_PREUVES.md).
+- [**Index des versions et de leur provenance**](INDEX-VERSIONS.md) : distinction entre « original », v1 (nom d'archivage), v2.0 et v2.1.
+- [**Original fourni / prompt prédécesseur**](VERSION-1-PREDECESSEUR.md) : les 20 sections du premier grand texte de comparaison, historiquement avec exigence USB 3.x.
+- [**Version 2.0 consolidée**](VERSION-2.0-CONSOLIDEE.md) : les 20 sections du prompt actualisé, avec USB 2.0 minimum et les classements A/B.
+- [**Version 2.1 — Amendements A1–A15**](VERSION-2.1-AMENDEMENTS.md) : correctifs approuvés à lire **en plus** de la version 2.0.
+- [**Rapport des propositions du 7 novembre**](RAPPORT-PROPOSITIONS-20261107.md) : dernières validations (3/5/6/7/8/9/10) et toutes les propositions en attente.
+- [**Rapport des échanges**](JOURNAL-ECHANGES-20261107.md) : déroulement chronologique des décisions.
+- [**Décisions**](DECISIONS.md), [**propositions en attente**](PROPOSITIONS_EN_ATTENTE.md) et [**registre des preuves**](REGISTRE_DES_PREUVES.md).
 
-**Important :** ce dossier ne constitue pas encore la copie exhaustive et autonome des prompts v2.0 et v2.1. Leur importation littérale et la vérification de leur intégrité restent à faire sans écraser les versions précédentes.
+**Précaution historique :** le texte du prédécesseur est bien archivé, mais une version « originale » encore plus ancienne et distincte n'a pas été établie. La comparaison octet par octet avec un export de conversation n'a pas été possible. Les propositions validées après rédaction des amendements v2.1 sont consignées, mais restent à intégrer textuellement dans une révision future.
 
 ## Invariants validés
 
@@ -43,4 +46,4 @@ Ne pas confondre fonction annoncée, implémentée, mesurée, compatible sous co
 
 ## Périmètre initial de ce commit
 
-Ce premier dépôt contient **les décisions, les propositions en suspens et une spécification documentaire de preuve**. Il ne contient pas encore le catalogue de produits, les données de tests ni les prompts intégraux. Ces absences sont explicites pour éviter toute fausse impression d'exhaustivité.
+Ce premier commit avait initialisé les décisions et le registre. Des commits documentaires ultérieurs ont ajouté les prompts historiques disponibles, les amendements et les rapports. Le catalogue de produits et les mesures techniques restent à constituer.
